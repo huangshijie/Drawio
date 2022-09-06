@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T12:38:17.518Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="tWIYv4S1QVZFahIPp-5S" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-06T12:46:00.855Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="04V-GtYYBFy-q0R8jXDA" version="20.2.8" type="github">
   <diagram id="WHPpi2bthjy1yINsOg8p" name="Page-1">
     <mxGraphModel dx="2007" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,9 +70,6 @@
             <mxPoint x="-623" y="250" as="sourcePoint" />
             <mxPoint x="-93" y="241" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="iSW1O8GTNsp9V_wyWXME-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="710" width="270" height="200" as="geometry" />
         </mxCell>
         <mxCell id="iSW1O8GTNsp9V_wyWXME-21" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-803" width="20" height="450" as="geometry" />

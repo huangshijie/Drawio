@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-08T09:15:12.657Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="hrz5vpT7WNAKqTBAR6U9" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-08T09:16:47.523Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="WwpwgsIimGH31oNbduew" version="20.2.8" type="github">
   <diagram id="WHPpi2bthjy1yINsOg8p" name="Page-1">
     <mxGraphModel dx="2705" dy="1026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,6 +68,11 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-553" y="210" as="sourcePoint" />
             <mxPoint x="-573" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iSW1O8GTNsp9V_wyWXME-33" value="Get dnb info for comparation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iSW1O8GTNsp9V_wyWXME-15">
+          <mxGeometry x="0.2551" y="1" relative="1" as="geometry">
+            <mxPoint x="25" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iSW1O8GTNsp9V_wyWXME-16" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;rounded=0;exitX=0.967;exitY=0.884;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iSW1O8GTNsp9V_wyWXME-6">

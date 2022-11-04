@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T08:15:55.751Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="_31x8OVgjnDVXK1NMSZS" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T08:17:28.140Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="k5wAaclBj8ILo9qaZK3l" version="20.5.1" type="github">
   <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
     <mxGraphModel dx="1425" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -78,8 +78,8 @@
         <mxCell id="wwz8x95htu8D-L9N0XOo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="FS7SqEsGfGKyJR96quoh-16" source="3a17f1ce550125da-5" target="wwz8x95htu8D-L9N0XOo-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FS7SqEsGfGKyJR96quoh-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;update-detection topic&lt;/span&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="FS7SqEsGfGKyJR96quoh-16">
-          <mxGeometry y="240" width="370" height="60" as="geometry" />
+        <mxCell id="FS7SqEsGfGKyJR96quoh-2" value="" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="FS7SqEsGfGKyJR96quoh-16">
+          <mxGeometry y="240" width="370" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FS7SqEsGfGKyJR96quoh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.063;exitY=1.033;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="FS7SqEsGfGKyJR96quoh-16" source="3a17f1ce550125da-5" target="FS7SqEsGfGKyJR96quoh-2">
           <mxGeometry relative="1" as="geometry" />
@@ -112,7 +112,7 @@
             <mxPoint x="440" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FS7SqEsGfGKyJR96quoh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.335;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.792;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="FS7SqEsGfGKyJR96quoh-16" source="3a17f1ce550125da-5" target="FS7SqEsGfGKyJR96quoh-2">
+        <mxCell id="FS7SqEsGfGKyJR96quoh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.335;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.795;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="FS7SqEsGfGKyJR96quoh-16" source="3a17f1ce550125da-5" target="FS7SqEsGfGKyJR96quoh-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="310" as="targetPoint" />
           </mxGeometry>
@@ -161,6 +161,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="286" y="390" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FS7SqEsGfGKyJR96quoh-29" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;update-detection topic&lt;/span&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;" vertex="1" parent="FS7SqEsGfGKyJR96quoh-16">
+          <mxGeometry x="70" y="250" width="137.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FS7SqEsGfGKyJR96quoh-30" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Tracking Records Update&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;topic&lt;/span&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;" vertex="1" parent="FS7SqEsGfGKyJR96quoh-16">
+          <mxGeometry x="220" y="250" width="137.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

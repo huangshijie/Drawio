@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T06:07:39.588Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="gRnEc5-pH1JKkjBhqkWV" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-08T07:02:05.184Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="8Iv1xHrK9OVU4TLizgdl" version="20.5.1" type="github">
   <diagram id="iNibahF6Y3yYVgzD8dor" name="Page-1">
     <mxGraphModel dx="1252" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,41 +7,17 @@
         <mxCell id="NBC4jcn0iUTAf-bns_DX-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="150" width="580" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="B5y0qz-TB3IfU01jpHbR-1" value="Certification Service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="290" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="B5y0qz-TB3IfU01jpHbR-5" value="Attachment Service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="335" y="200" width="160" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="B5y0qz-TB3IfU01jpHbR-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="119" y="502" width="581" height="206" as="geometry" />
+          <mxGeometry x="118.87" y="502" width="581" height="206" as="geometry" />
         </mxCell>
-        <mxCell id="B5y0qz-TB3IfU01jpHbR-7" value="Notification Service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="335" y="290" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NBC4jcn0iUTAf-bns_DX-2" value="SCT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="200" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NBC4jcn0iUTAf-bns_DX-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="750" y="270" width="60" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="NBC4jcn0iUTAf-bns_DX-4" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="NBC4jcn0iUTAf-bns_DX-3">
-          <mxGeometry width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="NBC4jcn0iUTAf-bns_DX-5" value="NFS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="NBC4jcn0iUTAf-bns_DX-3">
-          <mxGeometry x="5" y="80" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NBC4jcn0iUTAf-bns_DX-6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="NBC4jcn0iUTAf-bns_DX-6" value="Supplier" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="190" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NBC4jcn0iUTAf-bns_DX-8" value="Certification Portal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="200" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NBC4jcn0iUTAf-bns_DX-10" value="AN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="119" y="502" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B5y0qz-TB3IfU01jpHbR-4" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="190" y="550" width="60" height="110" as="geometry" />
+          <mxGeometry x="450" y="570" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="B5y0qz-TB3IfU01jpHbR-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="B5y0qz-TB3IfU01jpHbR-4" vertex="1">
           <mxGeometry width="60" height="80" as="geometry" />
@@ -50,7 +26,37 @@
           <mxGeometry y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NBC4jcn0iUTAf-bns_DX-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="420" width="410" height="60" as="geometry" />
+          <mxGeometry x="290" y="410" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NBC4jcn0iUTAf-bns_DX-14" value="Kafka" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="420" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBC4jcn0iUTAf-bns_DX-16" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NBC4jcn0iUTAf-bns_DX-17" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Notification Event topic&lt;/span&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="350" y="420" width="118.75" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="NBC4jcn0iUTAf-bns_DX-18" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Certification Portal&lt;/span&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="171.25" y="295" width="118.75" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="NBC4jcn0iUTAf-bns_DX-19" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Certification Service&lt;/span&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="370" y="295" width="118.75" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="NBC4jcn0iUTAf-bns_DX-20" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Notification Service&lt;/span&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="540.63" y="300" width="118.75" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="NBC4jcn0iUTAf-bns_DX-21" value="" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="140" y="550" width="118.75" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="NBC4jcn0iUTAf-bns_DX-22" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;SCT&lt;/span&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="354" y="200" width="118.75" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="NBC4jcn0iUTAf-bns_DX-23" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Attachment Service&lt;/span&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="195.63" y="190" width="118.75" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="NBC4jcn0iUTAf-bns_DX-13" value="OpenAPI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="550" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

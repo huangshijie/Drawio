@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T06:15:48.719Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="5eSTt2aAI0hjwbRL5Xn6" version="20.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-14T06:51:36.443Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="O31m6jkGxQLvKL7nIEzm" version="20.5.3" type="github" pages="4">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Domain Model">
     <mxGraphModel dx="1425" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -953,6 +953,33 @@
         </mxCell>
         <mxCell id="0JiQ8_6DaGaywJ_kZJoJ-72" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;OCR&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="0JiQ8_6DaGaywJ_kZJoJ-73">
           <mxGeometry x="630" y="230" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HY1VVbe6A5z9STmJ_-Pz" name="Main flow">
+    <mxGraphModel dx="1181" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WdlkIxb8tzntDEZREHPs-1" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="WdlkIxb8tzntDEZREHPs-2" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="100" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="WdlkIxb8tzntDEZREHPs-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=12;" vertex="1" parent="WdlkIxb8tzntDEZREHPs-2">
+          <mxGeometry x="45" y="120" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WdlkIxb8tzntDEZREHPs-4" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;fontSize=12;" edge="1" target="WdlkIxb8tzntDEZREHPs-3" parent="1" source="WdlkIxb8tzntDEZREHPs-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="59.998571428571324" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WdlkIxb8tzntDEZREHPs-5" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;fontSize=12;" edge="1" source="WdlkIxb8tzntDEZREHPs-3" parent="1" target="WdlkIxb8tzntDEZREHPs-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="59.998571428571324" y="236" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

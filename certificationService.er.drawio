@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T07:05:35.389Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="7RpltrviSr172ga0Uz6x" version="20.5.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-11-17T07:05:49.876Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="hR7mhsKYyyHaVQBNWXwU" version="20.5.3" type="github" pages="7">
   <diagram id="ghnVkD6tve0hE08AzQ6Q" name="E-R">
     <mxGraphModel dx="1476" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1591,12 +1591,12 @@
         <mxCell id="vcpEXgS2r9cp2adzrjhK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;endArrow=classic;endFill=1;" edge="1" parent="1" source="vcpEXgS2r9cp2adzrjhK-12" target="wTHAG8PgMdJr5H4IsHBW-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-105" y="1055" />
+              <mxPoint x="-190" y="1055" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vcpEXgS2r9cp2adzrjhK-12" value="Send notification message to Kafka topic" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=10;fillColor=#FFFFFF;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="805" width="110" height="50" as="geometry" />
+          <mxGeometry x="-241" y="805" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vcpEXgS2r9cp2adzrjhK-17" value="&lt;span style=&quot;&quot;&gt;Expired&amp;nbsp;Certification Notification&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="-271" y="10" width="170" height="30" as="geometry" />

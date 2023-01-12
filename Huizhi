@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T11:39:18.315Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="qbWJ_m2BOHRBr0nnK-Vg" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T06:58:49.190Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ZHRVfD_6UGRvRXOXmBfv" version="20.8.3" type="github" pages="2">
   <diagram id="g2Twp2p8Vvf8mQ5EHMRv" name="Page-1">
-    <mxGraphModel dx="1298" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2714" dy="1434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,10 +73,45 @@
         <mxCell id="huf5zTvYRcDMUeZmcWab-7" value="书桌1" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillStyle=solid;fillColor=#D6D6D6;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="315" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D-RMhEsz5mFw2Gv3JYHd-1" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
+        <mxCell id="D-RMhEsz5mFw2Gv3JYHd-1" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="580" as="sourcePoint" />
             <mxPoint x="200" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GpPZFPzRCfTM-Evguqv_" name="Page-2">
+    <mxGraphModel dx="1086" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zgEJkQRqoXi-sMirn5Gw-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="410" width="244" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="zgEJkQRqoXi-sMirn5Gw-4" value="桌" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="215" y="545" width="41" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="zgEJkQRqoXi-sMirn5Gw-5" value="书柜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="635" width="122" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zgEJkQRqoXi-sMirn5Gw-6" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="410" as="sourcePoint" />
+            <mxPoint x="355" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zgEJkQRqoXi-sMirn5Gw-7" value="箱子" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="380" y="455" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zgEJkQRqoXi-sMirn5Gw-3" value="书桌" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="175" y="445" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zgEJkQRqoXi-sMirn5Gw-8" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="665" as="sourcePoint" />
+            <mxPoint x="210" y="585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

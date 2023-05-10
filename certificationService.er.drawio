@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T10:04:01.569Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="oA1rUqrOqDd3HV0btrll" version="21.2.9" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2023-05-10T10:04:17.959Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="5wY3Gju-dxjouCn8aTEe" version="21.2.9" type="github" pages="22">
   <diagram id="ghnVkD6tve0hE08AzQ6Q" name="E-R">
     <mxGraphModel dx="2074" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3892,6 +3892,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UV_uHf8CVn9unskJPZBq-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="770" height="540" as="geometry" />
+        </mxCell>
         <mxCell id="TwMrQlIbq3qBap6SMtzY-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Services with OAuth token&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=40;" parent="1" vertex="1">
           <mxGeometry x="20" y="20" width="90" height="500" as="geometry" />
         </mxCell>

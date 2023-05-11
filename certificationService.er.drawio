@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T10:04:17.959Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="5wY3Gju-dxjouCn8aTEe" version="21.2.9" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2023-05-11T05:42:28.451Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="jK_YSDuI1xMAIXWM3Vt0" version="21.2.9" type="github" pages="22">
   <diagram id="ghnVkD6tve0hE08AzQ6Q" name="E-R">
     <mxGraphModel dx="2074" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3774,7 +3774,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lhMtXQJjN3HPDVC64pSJ" name="OAuth token flow">
-    <mxGraphModel dx="965" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="965" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3888,7 +3888,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4vS4iWA-FX_XoD795xFS" name="JWT token Flow">
-    <mxGraphModel dx="1430" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3920,7 +3920,7 @@
         <mxCell id="TwMrQlIbq3qBap6SMtzY-6" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Certification service&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=40;" parent="1" vertex="1">
           <mxGeometry x="500" y="20" width="95" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="TwMrQlIbq3qBap6SMtzY-7" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;5. validate JWT token&amp;nbsp;&lt;br&gt;get orgAnId, orgType, userUUID from header&lt;br&gt;&lt;/font&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="TwMrQlIbq3qBap6SMtzY-6" target="TwMrQlIbq3qBap6SMtzY-8" edge="1">
+        <mxCell id="TwMrQlIbq3qBap6SMtzY-7" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;5. validate JWT token&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="TwMrQlIbq3qBap6SMtzY-6" target="TwMrQlIbq3qBap6SMtzY-8" edge="1">
           <mxGeometry x="-0.3194" relative="1" as="geometry">
             <mxPoint x="50" y="350" as="sourcePoint" />
             <Array as="points">
@@ -3960,9 +3960,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TwMrQlIbq3qBap6SMtzY-12" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;6. return in response&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="TwMrQlIbq3qBap6SMtzY-8" target="TwMrQlIbq3qBap6SMtzY-1" edge="1">
+        <mxCell id="TwMrQlIbq3qBap6SMtzY-12" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;6. validate token&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="TwMrQlIbq3qBap6SMtzY-8" edge="1">
           <mxGeometry x="0.0949" relative="1" as="geometry">
-            <mxPoint x="470" y="425" as="targetPoint" />
+            <mxPoint x="310" y="440" as="targetPoint" />
             <Array as="points">
               <mxPoint x="470" y="440" />
               <mxPoint x="320" y="440" />

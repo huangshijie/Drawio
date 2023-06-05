@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T08:42:12.584Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Fm34He4SBTfbiJjhv7JG" version="21.3.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-06-05T08:42:41.371Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="4PgGVmrTKHakkmjZ53x5" version="21.3.3" type="github" pages="9">
   <diagram id="ovvk2z2SdmTgAzOmFd36" name="Feature toggle relationship">
     <mxGraphModel dx="3728" dy="2300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1324,6 +1324,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="l_gV2VWV8HiT9LLFv1Ga-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="450" height="510" as="geometry" />
+        </mxCell>
         <mxCell id="l_gV2VWV8HiT9LLFv1Ga-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Portal-profile / &lt;br&gt;Registration-portal&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=40;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="100" height="460" as="geometry" />
         </mxCell>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T07:14:55.046Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TTWLjjtxYncDwINB6G-7" version="21.5.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-23T09:33:27.221Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="cHRe198KbLqj9awQsjFv" version="21.5.0" type="github" pages="2">
   <diagram name="Simple block diagram" id="4YtnG2kRDNjNFjsuQ804">
     <mxGraphModel dx="726" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,6 +110,12 @@
         </mxCell>
         <mxCell id="ZsF-27eHJCaCmqKZ7bJA-17" value="mail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EpBSjz9gBlVTYf6usbNT-1" value="sync request status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="180" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EpBSjz9gBlVTYf6usbNT-2" value="update request status&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="210" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T08:24:47.448Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NqkQDWDmHHXPLcM_MS-M" version="21.5.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-27T08:25:19.203Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="oX8leeTG_G2Lu3vy6vQS" version="21.5.0" type="github" pages="2">
   <diagram name="Simple block diagram" id="4YtnG2kRDNjNFjsuQ804">
     <mxGraphModel dx="1481" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
         </mxCell>
         <mxCell id="Ty4t2j5JDmEToLUeei0F-69" value="1.2 push request event" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ty4t2j5JDmEToLUeei0F-68">
           <mxGeometry x="0.3" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-3" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ty4t2j5JDmEToLUeei0F-17" value="certification-service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">

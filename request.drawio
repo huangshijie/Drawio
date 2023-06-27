@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T08:26:14.224Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vi0eY6OeWCVZizQZYlOH" version="21.5.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-27T08:27:15.213Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DZF3MbaIaINT3rKaGZzq" version="21.5.0" type="github" pages="2">
   <diagram name="Simple block diagram" id="4YtnG2kRDNjNFjsuQ804">
     <mxGraphModel dx="1481" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ty4t2j5JDmEToLUeei0F-23" value="certification-consumer-service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
+        <mxCell id="Ty4t2j5JDmEToLUeei0F-23" value="request-consumer-service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="365" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ty4t2j5JDmEToLUeei0F-24" value="notification-topic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

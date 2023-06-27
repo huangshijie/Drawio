@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T08:46:39.649Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TpWl_L2oKwhwCPuu-YcG" version="21.5.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-27T08:56:31.847Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="IFaRsqiKgvWyDv6LV5yJ" version="21.5.0" type="github" pages="2">
   <diagram name="Simple block diagram" id="4YtnG2kRDNjNFjsuQ804">
     <mxGraphModel dx="1481" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -186,11 +186,14 @@
             <mxPoint y="5" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zoIcQWH-cHmLm1Tkh0ie-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logosandtypes.com/wp-content/uploads/2020/07/kafka.svg;" vertex="1" parent="1">
+          <mxGeometry x="930" y="510" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="MVUqGvvt7vjHceeHclE9" name="Page-2">
-    <mxGraphModel dx="1338" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1659" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,11 +273,11 @@
         <mxCell id="ZsF-27eHJCaCmqKZ7bJA-2" value="request-service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="275" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eX1dMMBPhnhegT0hV1PO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.852;exitY=1.021;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZsF-27eHJCaCmqKZ7bJA-13" target="ZsF-27eHJCaCmqKZ7bJA-17">
+        <mxCell id="eX1dMMBPhnhegT0hV1PO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.852;exitY=1.021;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZsF-27eHJCaCmqKZ7bJA-13" target="ZsF-27eHJCaCmqKZ7bJA-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="616" y="490" />
-              <mxPoint x="1017" y="490" />
+              <mxPoint x="990" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -302,7 +305,7 @@
           <mxGeometry x="420" y="365" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZsF-27eHJCaCmqKZ7bJA-17" value="notification-topic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="535" width="230" height="50" as="geometry" />
+          <mxGeometry x="928" y="535" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eX1dMMBPhnhegT0hV1PO-60" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZsF-27eHJCaCmqKZ7bJA-1">
           <mxGeometry relative="1" as="geometry">
@@ -344,7 +347,7 @@
         <mxCell id="eX1dMMBPhnhegT0hV1PO-9" value="" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1290" y="460" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eX1dMMBPhnhegT0hV1PO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.607;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eX1dMMBPhnhegT0hV1PO-10" target="ZsF-27eHJCaCmqKZ7bJA-17">
+        <mxCell id="eX1dMMBPhnhegT0hV1PO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eX1dMMBPhnhegT0hV1PO-10" target="ZsF-27eHJCaCmqKZ7bJA-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1100" y="530" as="targetPoint" />
           </mxGeometry>
@@ -454,6 +457,9 @@
         </mxCell>
         <mxCell id="eX1dMMBPhnhegT0hV1PO-70" value="Register services" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t5BnuO3iXCekScYNcjbp-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logosandtypes.com/wp-content/uploads/2020/07/kafka.svg;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="510" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T03:14:49.073Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="gAFiBlPJwoTKoACfXltE" version="21.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-06-28T03:15:24.287Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dtw6SK8Vu5_IuFJVaKZe" version="21.5.1" type="github" pages="4">
   <diagram name="Simple block diagram" id="4YtnG2kRDNjNFjsuQ804">
-    <mxGraphModel dx="1728" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1728" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,7 +94,7 @@
         <mxCell id="Ty4t2j5JDmEToLUeei0F-23" value="request-consumer-service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="365" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ty4t2j5JDmEToLUeei0F-24" value="notification-topic" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ty4t2j5JDmEToLUeei0F-24" value="notification-topic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="700" y="535" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ty4t2j5JDmEToLUeei0F-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="Ty4t2j5JDmEToLUeei0F-45" target="Ty4t2j5JDmEToLUeei0F-12" edge="1">

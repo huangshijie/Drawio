@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T07:00:32.272Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lQmiC5dq3Ur6AjVU-c6m" version="21.6.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-07-11T07:01:38.687Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="US41X0a2owuErlxEhRBs" version="21.6.1" type="github" pages="6">
   <diagram name="phase one block diagram" id="4YtnG2kRDNjNFjsuQ804">
     <mxGraphModel dx="1536" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -776,10 +776,10 @@
         </mxCell>
         <mxCell id="bbOMFLPu61bQNDhljlUH-10" value="1.0 get trading partners group" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bbOMFLPu61bQNDhljlUH-9">
           <mxGeometry x="-0.0387" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bbOMFLPu61bQNDhljlUH-11" value="1.2/3.1 CRUD request tasks" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="bbOMFLPu61bQNDhljlUH-11" value="1.1/3.1 CRUD request tasks" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry x="-0.1111" y="36" relative="1" as="geometry">
             <mxPoint x="793.5000000000005" y="350" as="sourcePoint" />
             <mxPoint x="793.5" y="395" as="targetPoint" />
@@ -982,7 +982,7 @@
         <mxCell id="bbOMFLPu61bQNDhljlUH-61" value="portal-profile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="bbOMFLPu61bQNDhljlUH-59">
           <mxGeometry x="165" y="7.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bbOMFLPu61bQNDhljlUH-62" value="1.1 get &lt;br&gt;trading partners" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="bbOMFLPu61bQNDhljlUH-62" value="1.0.1 get &lt;br&gt;trading partners" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="199" y="490" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bbOMFLPu61bQNDhljlUH-63" value="1.3 CRUD &lt;br&gt;request tasks" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">

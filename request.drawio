@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T05:58:18.851Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="MmX1eVa_kGrE__CbSI6V" version="21.6.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-07-18T05:59:08.344Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="yIfBgBjkSjI91TjOhqag" version="21.6.2" type="github" pages="7">
   <diagram name="phase one block diagram" id="4YtnG2kRDNjNFjsuQ804">
     <mxGraphModel dx="2074" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1236,8 +1236,11 @@
         <mxCell id="rfCbZ7gafWAk0F1x9hc3-78" value="Batch-resync" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rfCbZ7gafWAk0F1x9hc3-71">
           <mxGeometry x="60" y="152.67368421052632" width="70" height="38.16842105263158" as="geometry" />
         </mxCell>
-        <mxCell id="rfCbZ7gafWAk0F1x9hc3-80" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;GET /sync-certifications&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rfCbZ7gafWAk0F1x9hc3-71">
-          <mxGeometry x="1890" y="92.8421052631579" width="330" height="123.78947368421053" as="geometry" />
+        <mxCell id="rfCbZ7gafWAk0F1x9hc3-80" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;GET /sync-certifications&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.52;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rfCbZ7gafWAk0F1x9hc3-71">
+          <mxGeometry x="1482" y="109.8621052631579" width="330" height="123.78947368421053" as="geometry" />
+        </mxCell>
+        <mxCell id="rfCbZ7gafWAk0F1x9hc3-83" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 18px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;PUT /sync-certifications&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 18px;&quot;&gt;&lt;font size=&quot;3&quot;&gt;[&quot;fb3be4ee-4962-4ef4-b0bd-e10c280a2bd3&quot;]&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rfCbZ7gafWAk0F1x9hc3-71">
+          <mxGeometry x="1932" y="54.67" width="230" height="210" as="geometry" />
         </mxCell>
         <mxCell id="rfCbZ7gafWAk0F1x9hc3-72" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PUT /sync-certifications/force?orgAnId={orgAnId}&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="rfCbZ7gafWAk0F1x9hc3-82">
           <mxGeometry x="900" y="60" width="440" height="200" as="geometry" />

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T09:55:41.495Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="iquOoZkX502n7jtdPdRn" version="21.6.1" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2023-08-03T03:08:14.832Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="zN1JCj_FHQzuXvrZAt30" version="21.6.6" type="github" pages="24">
   <diagram id="ghnVkD6tve0hE08AzQ6Q" name="E-R">
-    <mxGraphModel dx="2074" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -315,7 +315,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oyC3xqTN4hRKwD512ng_" name="Model">
-    <mxGraphModel dx="2901" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2901" dy="1125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -505,7 +505,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hYVzIFb2bU4AuD8LxEdc-45" value="PUBLIC_YEAR" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="hYVzIFb2bU4AuD8LxEdc-43" vertex="1">
+        <mxCell id="hYVzIFb2bU4AuD8LxEdc-45" value="PUBLICATION_YEAR" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="hYVzIFb2bU4AuD8LxEdc-43" vertex="1">
           <mxGeometry x="30" width="260" height="30" as="geometry">
             <mxRectangle width="260" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -4714,6 +4714,53 @@
         <mxCell id="55KwhV9oYvRXyuKwX0_O-32" value="1.1 query" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="55KwhV9oYvRXyuKwX0_O-31">
           <mxGeometry x="-0.0716" y="2" relative="1" as="geometry">
             <mxPoint x="-2" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="t9HkqvY4rv9NKDlfSIx8" name="Page-24">
+    <mxGraphModel dx="902" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zc58BtICdCWWy2nqRQaC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="260" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="zc58BtICdCWWy2nqRQaC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zc58BtICdCWWy2nqRQaC-2" target="zc58BtICdCWWy2nqRQaC-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zc58BtICdCWWy2nqRQaC-6" value="/ingress/tpd/v1/tradingPartners&lt;br&gt;/ingress/certification/private/v1/configs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zc58BtICdCWWy2nqRQaC-5">
+          <mxGeometry x="0.0582" y="1" relative="1" as="geometry">
+            <mxPoint x="-81" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zc58BtICdCWWy2nqRQaC-2" value="tp-discovery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="105" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zc58BtICdCWWy2nqRQaC-3" value="portal-dashboard" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zc58BtICdCWWy2nqRQaC-4" value="tp-discovery-service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zc58BtICdCWWy2nqRQaC-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="270" width="246" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="zc58BtICdCWWy2nqRQaC-9" value="Seller-app" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zc58BtICdCWWy2nqRQaC-10" value="certification-service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="513" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zc58BtICdCWWy2nqRQaC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zc58BtICdCWWy2nqRQaC-4" target="zc58BtICdCWWy2nqRQaC-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zc58BtICdCWWy2nqRQaC-12" value="/certification/private/v1/classifications" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zc58BtICdCWWy2nqRQaC-11">
+          <mxGeometry x="-0.4611" y="-1" relative="1" as="geometry">
+            <mxPoint x="37" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

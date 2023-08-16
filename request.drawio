@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T08:14:00.231Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="tlkBsxnfrnLkmaaLktU-" version="21.6.8" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-08-16T08:14:28.084Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="o_X2JYmbaiNjuXXa08ff" version="21.6.8" type="github" pages="10">
   <diagram name="phase one block diagram" id="4YtnG2kRDNjNFjsuQ804">
     <mxGraphModel dx="2074" dy="1204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1497,11 +1497,8 @@
         <mxCell id="5JEgL01S3oWnoD4tSNUD-12" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;GET certification/v1/certifications&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="555" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5JEgL01S3oWnoD4tSNUD-16" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Open create new certification dialog and auto fill with certification in certification instance&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5JEgL01S3oWnoD4tSNUD-16" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Open create new certification dialog and auto fill with certification in certification list&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="680" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5JEgL01S3oWnoD4tSNUD-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="385" y="658" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

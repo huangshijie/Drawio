@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T01:49:22.451Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ukj7ncZujSr3tfNfyoIS" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-18T01:58:35.330Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="GoXFlzxFCdGv4l7ovFr7" version="21.6.8" type="github" pages="3">
   <diagram name="Integrate in certification-service" id="wTFja_zdezl0JjM4TNHG">
     <mxGraphModel dx="2074" dy="1125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -635,7 +635,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2m-ZdUb2JQ5U6cjRysLC-43" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;5. GET /collaboration/v1/requests/{collaborationId}&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2m-ZdUb2JQ5U6cjRysLC-41">
+        <mxCell id="2m-ZdUb2JQ5U6cjRysLC-43" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;5. GET /collaboration/v1/requests/{requestId}&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2m-ZdUb2JQ5U6cjRysLC-41">
           <mxGeometry x="0.0375" y="2" relative="1" as="geometry">
             <mxPoint y="-12" as="offset" />
           </mxGeometry>

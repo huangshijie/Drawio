@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T06:17:08.583Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="JQ90fP6yCHmSNLZC0BlL" version="21.6.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-18T06:19:30.810Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="tyl2p6T3JOTrCwxcL6v0" version="21.6.8" type="github" pages="5">
   <diagram name="Integrate in certification-service" id="wTFja_zdezl0JjM4TNHG">
     <mxGraphModel dx="2074" dy="1125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -995,7 +995,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_k6J8TZ5qU4xc6ZTPm7s-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="10" width="1190" height="1450" as="geometry" />
+          <mxGeometry x="20" y="180" width="1190" height="1450" as="geometry" />
         </mxCell>
         <mxCell id="_k6J8TZ5qU4xc6ZTPm7s-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;collaboration&amp;nbsp;type is &lt;br&gt;create new certification&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="353" y="670" width="240" height="70" as="geometry" />

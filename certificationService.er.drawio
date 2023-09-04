@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T02:56:23.667Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="1MF81bCcyVQCSH4LXKgW" version="21.6.9" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2023-09-04T08:12:25.378Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="MXJ_if8TNKZY7nmIEoB1" version="21.7.1" type="github" pages="27">
   <diagram id="ghnVkD6tve0hE08AzQ6Q" name="E-R">
-    <mxGraphModel dx="2074" dy="1204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6104,6 +6104,37 @@
         </mxCell>
         <mxCell id="0qEffFQ-vpRsK6C00m60-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;has batch sync instance processing&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="45" y="60" width="150" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="d3nf6zrWGgOU477O72dl" name="Page-27">
+    <mxGraphModel dx="1430" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HtUqHA1GT4MxrIbP99ya-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HtUqHA1GT4MxrIbP99ya-1" target="HtUqHA1GT4MxrIbP99ya-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HtUqHA1GT4MxrIbP99ya-11" value="Create" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HtUqHA1GT4MxrIbP99ya-10">
+          <mxGeometry x="-0.0877" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HtUqHA1GT4MxrIbP99ya-1" value="&amp;nbsp;US based" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HtUqHA1GT4MxrIbP99ya-2" value="ship to location(CN)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="289" y="410" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HtUqHA1GT4MxrIbP99ya-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HtUqHA1GT4MxrIbP99ya-6" target="HtUqHA1GT4MxrIbP99ya-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HtUqHA1GT4MxrIbP99ya-6" value="Matching service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="219" y="550" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HtUqHA1GT4MxrIbP99ya-9" value="Event" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

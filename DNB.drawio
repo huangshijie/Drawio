@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T09:52:03.671Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="mKbUtuPGOQepZgs6W1po" version="22.0.4" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-10-17T09:52:37.367Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="CjXi8DeKe67ivCRZemI-" version="22.0.4" type="github" pages="13">
   <diagram id="ovvk2z2SdmTgAzOmFd36" name="Feature toggle relationship">
     <mxGraphModel dx="3728" dy="2294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2212,6 +2212,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mRh56RAk96sAhlyN37---11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="16" width="830" height="184" as="geometry" />
+        </mxCell>
         <mxCell id="mRh56RAk96sAhlyN37---6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="380" y="20" width="60" height="160" as="geometry" />
         </mxCell>

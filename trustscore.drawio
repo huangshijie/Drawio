@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T06:36:46.454Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.4" etag="LmZSsSuxmaqienC6KbbQ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T07:44:59.320Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SmrTP0RJ5mGNZutBHvGL" version="22.1.4" type="github">
   <diagram name="Page-1" id="S-pocfqhdvBSQPmfAuuk">
-    <mxGraphModel>
+    <mxGraphModel dx="1383" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dhhFSZ3-jkmYEVVINFnf-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="20" width="680" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="dhhFSZ3-jkmYEVVINFnf-1" value="Trust Your Trading Partner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384.5" y="105" width="321" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dhhFSZ3-jkmYEVVINFnf-2" value="AN Gen1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="105" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dhhFSZ3-jkmYEVVINFnf-5" value="Kyma" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="20" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dhhFSZ3-jkmYEVVINFnf-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="384.5" y="205" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dhhFSZ3-jkmYEVVINFnf-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dhhFSZ3-jkmYEVVINFnf-9">
+          <mxGeometry width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dhhFSZ3-jkmYEVVINFnf-3" value="PO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dhhFSZ3-jkmYEVVINFnf-9">
+          <mxGeometry x="19" y="25" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dhhFSZ3-jkmYEVVINFnf-6" value="Invoice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dhhFSZ3-jkmYEVVINFnf-9">
+          <mxGeometry x="19" y="75" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dhhFSZ3-jkmYEVVINFnf-11" value="TPD" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="565.5" y="205" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dhhFSZ3-jkmYEVVINFnf-14" value="Document service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="205" width="150" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

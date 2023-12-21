@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T02:51:20.670Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="K9nyiOlS2dWk5BlfrsWB" version="22.1.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-12-21T02:51:48.442Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="NTY2xUqXONLpq_ch0Pgx" version="22.1.11" type="github" pages="3">
   <diagram name="Page-1" id="sN0jlcriJ1ib_eJbJ19k">
     <mxGraphModel dx="1536" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="X47SgQfWm0otwFObfNds-11" value="Ext data&lt;br&gt;Provider (D&amp;amp;B)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="880" y="40" width="120" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="X47SgQfWm0otwFObfNds-13" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=default;dashed=1;" parent="1" vertex="1">
+        <mxCell id="X47SgQfWm0otwFObfNds-13" value="Account creation in Temporal" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=default;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="260" width="400" height="120" as="geometry" />
         </mxCell>
         <mxCell id="X47SgQfWm0otwFObfNds-15" value="POST /records" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="X47SgQfWm0otwFObfNds-1" target="X47SgQfWm0otwFObfNds-5" edge="1">

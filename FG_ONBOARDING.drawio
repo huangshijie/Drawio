@@ -1,9 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T06:11:56.384Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.15" etag="oEBB8APzj1DCV7oA5meD" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T06:41:37.085Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="mda0ALeuLo_TUNRKdZ3q" version="22.1.15" type="github">
   <diagram name="Page-1" id="QOrUJUwf2BtZjTTDPUhQ">
-    <mxGraphModel>
+    <mxGraphModel dx="1296" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8pRwlO5CPwsA957bxQWA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8pRwlO5CPwsA957bxQWA-1" target="8pRwlO5CPwsA957bxQWA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8pRwlO5CPwsA957bxQWA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8pRwlO5CPwsA957bxQWA-1" target="8pRwlO5CPwsA957bxQWA-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8pRwlO5CPwsA957bxQWA-1" value="Supplier Enablement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="340" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8pRwlO5CPwsA957bxQWA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8pRwlO5CPwsA957bxQWA-2" target="8pRwlO5CPwsA957bxQWA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8pRwlO5CPwsA957bxQWA-2" value="Buyer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8pRwlO5CPwsA957bxQWA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.524;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8pRwlO5CPwsA957bxQWA-5" target="8pRwlO5CPwsA957bxQWA-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8pRwlO5CPwsA957bxQWA-5" value="Portal Dashboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="190" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8pRwlO5CPwsA957bxQWA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8pRwlO5CPwsA957bxQWA-6" target="8pRwlO5CPwsA957bxQWA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8pRwlO5CPwsA957bxQWA-6" value="Supplier" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="493" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8pRwlO5CPwsA957bxQWA-8" value="In-app Notification Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="280" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8pRwlO5CPwsA957bxQWA-9" value="Mail Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="280" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8pRwlO5CPwsA957bxQWA-14" value="FG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="600" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8pRwlO5CPwsA957bxQWA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8pRwlO5CPwsA957bxQWA-15" target="8pRwlO5CPwsA957bxQWA-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8pRwlO5CPwsA957bxQWA-15" value="Directory Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="470" width="180" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

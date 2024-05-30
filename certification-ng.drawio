@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T03:14:30.252Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.4.6" etag="TYUWY6w041W9oRBxi1NR" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T01:58:56.950Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="xND9AGAlpwZXpQTWDJRv" version="24.4.9" type="github">
   <diagram name="Page-1" id="vyL-CtyDRpOXDLv7MlMt">
-    <mxGraphModel>
+    <mxGraphModel dx="687" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-BITDbwhIyWiTn7qBVVS-1" value="Ariba API Developer Portal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-BITDbwhIyWiTn7qBVVS-2" value="Kyma API Ingress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="150" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-BITDbwhIyWiTn7qBVVS-3" value="TPD-core" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="180" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-BITDbwhIyWiTn7qBVVS-4" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="575" y="280" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-BITDbwhIyWiTn7qBVVS-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-BITDbwhIyWiTn7qBVVS-6" value="SAP OpenAPI Portal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-BITDbwhIyWiTn7qBVVS-7" value="Attachment-service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="100" width="170" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

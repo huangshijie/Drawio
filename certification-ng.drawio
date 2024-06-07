@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T01:02:48.460Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Mf533BBFYBlwnT_n0-9T" version="24.4.14" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-07T01:03:14.345Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="GhHMJ_TPYukiJNu7DVTU" version="24.4.14" type="github" pages="2">
   <diagram name="Page-1" id="vyL-CtyDRpOXDLv7MlMt">
     <mxGraphModel dx="2074" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="-BITDbwhIyWiTn7qBVVS-5" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="262.5" y="120" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-BITDbwhIyWiTn7qBVVS-6" value="SAP OpenAPI portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="-BITDbwhIyWiTn7qBVVS-6" value="SAP API portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="220" y="370" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-BITDbwhIyWiTn7qBVVS-7" value="attachment-service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=11;" parent="1" vertex="1">

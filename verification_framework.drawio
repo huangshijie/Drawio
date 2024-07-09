@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T07:17:50.562Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="xHwmA0hZLUh_xoje5VlE" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-09T07:41:43.822Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="W1B79ZgeGk7hr6tUX7TT" version="24.6.4" type="github" pages="3">
   <diagram name="Page-1" id="4RWJ1lXC7HRbisxCzYER">
     <mxGraphModel dx="726" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -220,35 +220,35 @@
             <mxRectangle x="340" y="12" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LxYif-U5POk959skEQFh-20" value="+ operatorCode: enum" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="LxYif-U5POk959skEQFh-19">
+        <mxCell id="LxYif-U5POk959skEQFh-20" value="+ v&lt;span style=&quot;text-align: center;&quot;&gt;erifier&lt;/span&gt;Code: enum" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="LxYif-U5POk959skEQFh-19">
           <mxGeometry y="26" width="290" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="LxYif-U5POk959skEQFh-21" value="+ backupOperatorCode: enum" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="LxYif-U5POk959skEQFh-19">
+        <mxCell id="LxYif-U5POk959skEQFh-21" value="+ backupV&lt;span style=&quot;text-align: center;&quot;&gt;erifierCode&lt;/span&gt;: enum" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="LxYif-U5POk959skEQFh-19">
           <mxGeometry y="52" width="290" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LxYif-U5POk959skEQFh-26" value="+ order:&amp;nbsp;&lt;span style=&quot;color: rgb(8, 8, 8); background-color: rgb(255, 255, 255);&quot;&gt;Integer&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="LxYif-U5POk959skEQFh-19">
           <mxGeometry y="78" width="290" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="LxYif-U5POk959skEQFh-27" value="Operator" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="I3fwBCHOMT-m8RctjI95-1">
+        <mxCell id="LxYif-U5POk959skEQFh-27" value="Verifier" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="I3fwBCHOMT-m8RctjI95-1">
           <mxGeometry x="840" y="90" width="290" height="104" as="geometry">
             <mxRectangle x="340" y="12" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LxYif-U5POk959skEQFh-28" value="+ operatorCode: enum" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="LxYif-U5POk959skEQFh-27">
+        <mxCell id="LxYif-U5POk959skEQFh-28" value="+ v&lt;span style=&quot;text-align: center;&quot;&gt;erifier&lt;/span&gt;Code: enum" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="LxYif-U5POk959skEQFh-27">
           <mxGeometry y="26" width="290" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="LxYif-U5POk959skEQFh-29" value="+ backupOperator: enum" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="LxYif-U5POk959skEQFh-27">
+        <mxCell id="LxYif-U5POk959skEQFh-29" value="+ backupV&lt;span style=&quot;text-align: center;&quot;&gt;erifierCode&lt;/span&gt;: enum" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="LxYif-U5POk959skEQFh-27">
           <mxGeometry y="52" width="290" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LxYif-U5POk959skEQFh-30" value="+ status:&amp;nbsp;&lt;span style=&quot;color: rgb(8, 8, 8); background-color: rgb(255, 255, 255);&quot;&gt;Integer&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="LxYif-U5POk959skEQFh-27">
           <mxGeometry y="78" width="290" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="LxYif-U5POk959skEQFh-31" value="OperatorAPIUsage" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="I3fwBCHOMT-m8RctjI95-1">
+        <mxCell id="LxYif-U5POk959skEQFh-31" value="VerifierAPIUsage" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="I3fwBCHOMT-m8RctjI95-1">
           <mxGeometry x="370" y="520" width="290" height="156" as="geometry">
             <mxRectangle x="340" y="12" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LxYif-U5POk959skEQFh-32" value="+ operatorCode: enum" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="LxYif-U5POk959skEQFh-31">
+        <mxCell id="LxYif-U5POk959skEQFh-32" value="+ v&lt;span style=&quot;text-align: center;&quot;&gt;erifier&lt;/span&gt;Code: enum" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="LxYif-U5POk959skEQFh-31">
           <mxGeometry y="26" width="290" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LxYif-U5POk959skEQFh-33" value="+ apiName: enum" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="LxYif-U5POk959skEQFh-31">
@@ -262,6 +262,23 @@
         </mxCell>
         <mxCell id="LxYif-U5POk959skEQFh-36" value="+ errorMessage:&amp;nbsp;&lt;span style=&quot;color: rgb(8, 8, 8); background-color: rgb(255, 255, 255);&quot;&gt;String&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="LxYif-U5POk959skEQFh-31">
           <mxGeometry y="130" width="290" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LxYif-U5POk959skEQFh-37" value="VerifierAPIDailyUsage" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="I3fwBCHOMT-m8RctjI95-1">
+          <mxGeometry x="370" y="710" width="290" height="130" as="geometry">
+            <mxRectangle x="340" y="12" width="130" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LxYif-U5POk959skEQFh-38" value="+ v&lt;span style=&quot;text-align: center;&quot;&gt;erifier&lt;/span&gt;Code: enum" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="LxYif-U5POk959skEQFh-37">
+          <mxGeometry y="26" width="290" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LxYif-U5POk959skEQFh-39" value="+ apiName: enum" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="LxYif-U5POk959skEQFh-37">
+          <mxGeometry y="52" width="290" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LxYif-U5POk959skEQFh-40" value="+ requestDate&amp;nbsp;&lt;span style=&quot;color: rgb(8, 8, 8); background-color: rgb(255, 255, 255);&quot;&gt;String&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="LxYif-U5POk959skEQFh-37">
+          <mxGeometry y="78" width="290" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LxYif-U5POk959skEQFh-42" value="+ count:&amp;nbsp;&lt;span style=&quot;color: rgb(8, 8, 8); background-color: rgb(255, 255, 255);&quot;&gt;String&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="LxYif-U5POk959skEQFh-37">
+          <mxGeometry y="104" width="290" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1623,7 +1623,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="c13r7uFmbI7YeMl-FkQ-" name="Status">
-    <mxGraphModel dx="3085" dy="1605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="1047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1754,8 +1754,8 @@
         <mxCell id="AV_SZpXhHxBnHygtumko-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;" vertex="1" parent="AV_SZpXhHxBnHygtumko-5">
           <mxGeometry x="5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AV_SZpXhHxBnHygtumko-7" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;SUCCESS&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="AV_SZpXhHxBnHygtumko-5">
-          <mxGeometry x="5" y="80" width="80" height="30" as="geometry" />
+        <mxCell id="AV_SZpXhHxBnHygtumko-7" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;FAILED&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="AV_SZpXhHxBnHygtumko-5">
+          <mxGeometry x="15" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AV_SZpXhHxBnHygtumko-8" value="" style="group;fontSize=11;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="520" y="560" width="90" height="115" as="geometry" />

@@ -1623,7 +1623,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="c13r7uFmbI7YeMl-FkQ-" name="Status">
-    <mxGraphModel dx="2012" dy="1047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="406" dy="211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1820,7 +1820,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AV_SZpXhHxBnHygtumko-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1040" width="80" height="80" as="geometry" />
+          <mxGeometry x="40" y="1041" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AV_SZpXhHxBnHygtumko-22" value="" style="group;fontSize=11;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="440" y="1041" width="90" height="110" as="geometry" />

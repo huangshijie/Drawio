@@ -3298,7 +3298,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ehmq-WSO7eDUcvbssJGk-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="340" width="1080" height="430" as="geometry" />
+          <mxGeometry x="-150" y="120" width="1080" height="650" as="geometry" />
         </mxCell>
         <mxCell id="Ehmq-WSO7eDUcvbssJGk-9" value="&lt;div style=&quot;font-weight: 400;&quot;&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;VerifierJobService&lt;/span&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="254" y="400" width="256" height="100" as="geometry" />

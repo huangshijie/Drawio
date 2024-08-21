@@ -2193,7 +2193,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c6L1nkOZKAwCFKq1HcZo-192" value="verificationEntityInstances" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=12;" vertex="1" parent="c6L1nkOZKAwCFKq1HcZo-190">
+        <mxCell id="c6L1nkOZKAwCFKq1HcZo-192" value="toBeVerifiedEntities" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=12;" vertex="1" parent="c6L1nkOZKAwCFKq1HcZo-190">
           <mxGeometry x="30" width="250" height="30" as="geometry">
             <mxRectangle width="250" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2457,7 +2457,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c6L1nkOZKAwCFKq1HcZo-255" value="entityInstance" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=12;" vertex="1" parent="c6L1nkOZKAwCFKq1HcZo-253">
+        <mxCell id="c6L1nkOZKAwCFKq1HcZo-255" value="entityInstances" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=12;" vertex="1" parent="c6L1nkOZKAwCFKq1HcZo-253">
           <mxGeometry x="30" width="250" height="30" as="geometry">
             <mxRectangle width="250" height="30" as="alternateBounds" />
           </mxGeometry>

@@ -199,7 +199,7 @@
         <mxCell id="YE2RVEykFqBS0Dozkn8u-0" value="+ order: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="LxYif-U5POk959skEQFh-19">
           <mxGeometry y="104" width="290" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="LxYif-U5POk959skEQFh-20" value="+ isMandatory: boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="LxYif-U5POk959skEQFh-19" vertex="1">
+        <mxCell id="LxYif-U5POk959skEQFh-20" value="+ isRequired: boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="LxYif-U5POk959skEQFh-19" vertex="1">
           <mxGeometry y="130" width="290" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LxYif-U5POk959skEQFh-27" value="Verifier" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="I3fwBCHOMT-m8RctjI95-1" vertex="1">

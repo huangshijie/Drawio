@@ -91,7 +91,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Modeling" id="pqW-SUrUSeycgD5KgNn0">
-    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2207" dy="1204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="I3fwBCHOMT-m8RctjI95-0" />
         <mxCell id="I3fwBCHOMT-m8RctjI95-1" parent="I3fwBCHOMT-m8RctjI95-0" />
@@ -137,7 +137,7 @@
         <mxCell id="I3fwBCHOMT-m8RctjI95-20" value="+&amp;nbsp;&lt;span style=&quot;font-size: 12px; background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;isValid&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;boolean&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="I3fwBCHOMT-m8RctjI95-13" vertex="1">
           <mxGeometry y="52" width="290" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="z8tt6j2e262vWXhE-s-Z-0" value="+ entityInstances: Array" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="I3fwBCHOMT-m8RctjI95-13">
+        <mxCell id="z8tt6j2e262vWXhE-s-Z-0" value="+ verificationEntityInstances: List of VerificationEntityInstance" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="I3fwBCHOMT-m8RctjI95-13">
           <mxGeometry y="78" width="290" height="26" as="geometry" />
         </mxCell>
         <mxCell id="I3fwBCHOMT-m8RctjI95-21" value="+ status&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;: enum&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="I3fwBCHOMT-m8RctjI95-13" vertex="1">

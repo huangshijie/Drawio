@@ -105,36 +105,30 @@
           <mxGeometry x="720" y="50" width="780" height="740" as="geometry" />
         </mxCell>
         <mxCell id="I3fwBCHOMT-m8RctjI95-2" value="VerificationInstance" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="I3fwBCHOMT-m8RctjI95-1" vertex="1">
-          <mxGeometry x="750" y="120" width="350" height="234" as="geometry" />
-        </mxCell>
-        <mxCell id="I3fwBCHOMT-m8RctjI95-3" value="+ orgUnit: OrgUnit" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="I3fwBCHOMT-m8RctjI95-2" vertex="1">
-          <mxGeometry y="26" width="350" height="26" as="geometry" />
+          <mxGeometry x="750" y="120" width="350" height="182" as="geometry" />
         </mxCell>
         <mxCell id="u1h4BnsoX479Cfe_0o70-0" value="+ orgAnId: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="I3fwBCHOMT-m8RctjI95-2" vertex="1">
-          <mxGeometry y="52" width="350" height="26" as="geometry" />
+          <mxGeometry y="26" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="u1h4BnsoX479Cfe_0o70-1" value="+ orgUnitDisplayId: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="I3fwBCHOMT-m8RctjI95-2" vertex="1">
-          <mxGeometry y="78" width="350" height="26" as="geometry" />
+          <mxGeometry y="52" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="KxnIlq00dk0xBxTbRJgZ-7" value="+ verificationTemplate: VerificationTemplate" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="I3fwBCHOMT-m8RctjI95-2" vertex="1">
-          <mxGeometry y="104" width="350" height="26" as="geometry" />
+          <mxGeometry y="78" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OH_mg0aoKhwscg3nq8f--7" value="+ verificationEntityInstances: List of VerificationEntityInstance" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="I3fwBCHOMT-m8RctjI95-2" vertex="1">
+          <mxGeometry y="104" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KxnIlq00dk0xBxTbRJgZ-13" value="+&amp;nbsp;&lt;span style=&quot;color: rgb(8, 8, 8); text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;verificationTaskInstances&lt;/span&gt;: List of&amp;nbsp;&lt;span style=&quot;color: rgb(8, 8, 8); text-align: center; background-color: rgb(255, 255, 255);&quot;&gt;VerificationTaskInstance&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="I3fwBCHOMT-m8RctjI95-2" vertex="1">
           <mxGeometry y="130" width="350" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="KxnIlq00dk0xBxTbRJgZ-13" value="+ verifierJobs: List of VerifierJob" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="I3fwBCHOMT-m8RctjI95-2" vertex="1">
-          <mxGeometry y="156" width="350" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="I3fwBCHOMT-m8RctjI95-4" value="+ status: enum" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="I3fwBCHOMT-m8RctjI95-2" vertex="1">
-          <mxGeometry y="182" width="350" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="OH_mg0aoKhwscg3nq8f--5" value="+ isActive: boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="I3fwBCHOMT-m8RctjI95-2" vertex="1">
-          <mxGeometry y="208" width="350" height="26" as="geometry" />
+          <mxGeometry y="156" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="I3fwBCHOMT-m8RctjI95-12" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8); font-size: 12px;&quot;&gt;&lt;div data-mduml-processed=&quot;true&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;" parent="I3fwBCHOMT-m8RctjI95-1" vertex="1">
           <mxGeometry x="750" y="409" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I3fwBCHOMT-m8RctjI95-13" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8); font-size: 12px;&quot;&gt;&lt;div data-mduml-processed=&quot;true&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left; background-color: rgb(251, 251, 251);&quot;&gt;VerifierJob&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="I3fwBCHOMT-m8RctjI95-1" vertex="1">
+        <mxCell id="I3fwBCHOMT-m8RctjI95-13" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8); font-size: 12px;&quot;&gt;&lt;div data-mduml-processed=&quot;true&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;span data-teams=&quot;true&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;VerificationTaskInstance&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="I3fwBCHOMT-m8RctjI95-1" vertex="1">
           <mxGeometry x="1120" y="121" width="350" height="104" as="geometry" />
         </mxCell>
         <mxCell id="I3fwBCHOMT-m8RctjI95-14" value="+ taskCode&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;Codelist&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="I3fwBCHOMT-m8RctjI95-13" vertex="1">

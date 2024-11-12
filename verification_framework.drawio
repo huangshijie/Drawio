@@ -187,7 +187,7 @@
             <mxRectangle x="340" y="12" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LxYif-U5POk959skEQFh-26" value="+ verifier: &lt;font color=&quot;#080808&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Codelist&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="LxYif-U5POk959skEQFh-19" vertex="1">
+        <mxCell id="LxYif-U5POk959skEQFh-26" value="+ v&lt;span style=&quot;text-align: center;&quot;&gt;erifier&lt;/span&gt;Code: &lt;font color=&quot;#080808&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Codelist&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="LxYif-U5POk959skEQFh-19" vertex="1">
           <mxGeometry y="26" width="290" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LxYif-U5POk959skEQFh-51" value="+ taskCode: Codelist" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="LxYif-U5POk959skEQFh-19" vertex="1">
@@ -335,7 +335,7 @@
             <mxRectangle x="340" y="12" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OH_mg0aoKhwscg3nq8f--1" value="+ v&lt;span style=&quot;text-align: center;&quot;&gt;erifier&lt;/span&gt;Key: enum" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="OH_mg0aoKhwscg3nq8f--0" vertex="1">
+        <mxCell id="OH_mg0aoKhwscg3nq8f--1" value="+ v&lt;span style=&quot;text-align: center;&quot;&gt;erifier&lt;/span&gt;Code: enum" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="OH_mg0aoKhwscg3nq8f--0" vertex="1">
           <mxGeometry y="26" width="290" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OH_mg0aoKhwscg3nq8f--2" value="+ entities: List of VerificationEntityCodeList" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="OH_mg0aoKhwscg3nq8f--0" vertex="1">

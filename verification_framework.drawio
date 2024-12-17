@@ -3535,16 +3535,16 @@
         <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-12" value="build verification entities" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;" parent="1" vertex="1">
           <mxGeometry x="200" y="680" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-13" value="get orgUnit from tpd-core" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-13" value="get orgUnit from tpd-core" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="200" y="920" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-14" value="convert to verification entities" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;" parent="1" vertex="1">
+        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-14" value="convert to verification entities" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=-10;" parent="1" vertex="1">
           <mxGeometry x="200" y="1040" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-15" value="get business info from AN" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-15" value="get business info from AN" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="360" y="920" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-16" value="convert to verification entities" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;" parent="1" vertex="1">
+        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-16" value="convert to verification entities" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="1040" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="Kx_CG3iSD6j-ErWJZrhZ-20" target="Kx_CG3iSD6j-ErWJZrhZ-39" edge="1">
@@ -3709,7 +3709,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-39" value="is valid&amp;nbsp;&lt;div&gt;request payload&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-39" value="return error status" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="670" y="60" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Kx_CG3iSD6j-ErWJZrhZ-26" target="Kx_CG3iSD6j-ErWJZrhZ-25" edge="1">
@@ -3737,37 +3737,37 @@
         <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-62" value="start verification task" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;" parent="1" vertex="1">
           <mxGeometry x="520" y="680" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-63" value="build verification task" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;" parent="1" vertex="1">
+        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-63" value="build verification task" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="800" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-64" value="build verification entities" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;" parent="1" vertex="1">
+        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-64" value="build verification entities" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="920" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-65" value="verify by CDQ" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-65" value="verify by CDQ" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="520" y="1040" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-66" value="verify by DNB" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-66" value="verify by DNB" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="680" y="1040" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-67" value="fetch details by DNB cleanse match" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-67" value="fetch details by DNB cleanse match" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="680" y="1169" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-68" value="post&amp;nbsp; verification process" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;" parent="1" vertex="1">
           <mxGeometry x="920" y="680" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-69" value="send notification" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;" parent="1" vertex="1">
+        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-69" value="send notification" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=0;" parent="1" vertex="1">
           <mxGeometry x="940" y="1040" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-70" value="send announce event" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-70" value="send announce event" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="940" y="1169" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-71" value="sync to tpd-core" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-71" value="sync to tpd-core" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="940" y="800" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-72" value="send reference message" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-72" value="send reference message" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="940" y="920" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-74" value="Update tax id/vat id" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-74" value="Update tax id/vat id" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="360" y="800" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-77" value="503 - retry 1 times at least" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">

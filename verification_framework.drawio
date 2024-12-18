@@ -3519,7 +3519,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SgCHg1dLxBPnCt1h8pzJ" name="Page-10">
-    <mxGraphModel dx="1659" dy="2132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1728" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3749,9 +3749,6 @@
         </mxCell>
         <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-72" value="send reference message" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1070" y="940" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-74" value="Update tax id/vat id" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="490" y="820" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Kx_CG3iSD6j-ErWJZrhZ-77" value="503 - retry 1 times at least" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="330" y="1300" width="120" height="60" as="geometry" />

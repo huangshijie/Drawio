@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T10:51:59.984Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="qG4wCE3h_Ui9S7pKBwQB" version="24.6.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2" pages="5">
   <diagram name="Page-1" id="AEEwfo_L1PQkJ27e-jiB">
     <mxGraphModel dx="1306" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -450,6 +450,50 @@
               <mxPoint x="60" y="400" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8-8TLUukFVoMkBv46lpM" name="Page-5">
+    <mxGraphModel dx="3141" dy="1204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7uRkf2Po2SwwWNvHw7ek-1" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="210" width="670" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="7uRkf2Po2SwwWNvHw7ek-2" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="40" width="630" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="7uRkf2Po2SwwWNvHw7ek-3" value="Ariba Supplier 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7uRkf2Po2SwwWNvHw7ek-4" value="Ariba Supplier 1 - T" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7uRkf2Po2SwwWNvHw7ek-5" value="Ariba IDP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="340" width="80" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="7uRkf2Po2SwwWNvHw7ek-6" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="375" width="640" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="7uRkf2Po2SwwWNvHw7ek-7" value="FG Buyer1 test landscape" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="640" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7uRkf2Po2SwwWNvHw7ek-8" value="FG Prod" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="310" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7uRkf2Po2SwwWNvHw7ek-9" value="FG supplier 1&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22ellipse%3Bshape%3Dcloud%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2240%22%20y%3D%2260%22%20width%3D%22540%22%20height%3D%22320%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7uRkf2Po2SwwWNvHw7ek-10" value="FG supplier - 1&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22ellipse%3Bshape%3Dcloud%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2240%22%20y%3D%2260%22%20width%3D%22540%22%20height%3D%22320%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="520" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7uRkf2Po2SwwWNvHw7ek-11" value="FG IDP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="150" width="60" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="7uRkf2Po2SwwWNvHw7ek-12" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;FG &lt;br&gt;Buyer1 &lt;br&gt;test&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;landscape&lt;br&gt;&lt;/span&gt;&amp;nbsp;IDP&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="70" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

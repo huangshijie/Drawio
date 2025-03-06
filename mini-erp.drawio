@@ -243,7 +243,7 @@
           <mxGeometry y="260" width="800" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AI3ZiWeD6xOJFFjRsyec-41" value="Generate request" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=10;" vertex="1" parent="AI3ZiWeD6xOJFFjRsyec-16">
-          <mxGeometry x="372" y="50" width="90" height="40" as="geometry" />
+          <mxGeometry x="378.5" y="50" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AI3ZiWeD6xOJFFjRsyec-18" value="Approver II" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="AI3ZiWeD6xOJFFjRsyec-13">
           <mxGeometry y="380" width="800" height="120" as="geometry" />

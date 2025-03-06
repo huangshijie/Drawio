@@ -211,7 +211,7 @@
         <mxCell id="AI3ZiWeD6xOJFFjRsyec-5" value="Approver II" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="640" width="790" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="AI3ZiWeD6xOJFFjRsyec-7" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AI3ZiWeD6xOJFFjRsyec-7" value="Cashier" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="840" width="790" height="200" as="geometry" />
         </mxCell>
       </root>

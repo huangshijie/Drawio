@@ -195,27 +195,26 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6ZESc2SbOYmFqGbFhYT1" name="Page-3">
-    <mxGraphModel dx="873" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="783" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AI3ZiWeD6xOJFFjRsyec-2" value="AI" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="790" height="200" as="geometry" />
+        <mxCell id="AI3ZiWeD6xOJFFjRsyec-13" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="730" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="AI3ZiWeD6xOJFFjRsyec-3" value="Employee" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="210" width="790" height="200" as="geometry" />
+        <mxCell id="AI3ZiWeD6xOJFFjRsyec-14" value="AI" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="AI3ZiWeD6xOJFFjRsyec-13">
+          <mxGeometry y="20" width="730" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="AI3ZiWeD6xOJFFjRsyec-4" value="Approver I" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="410" width="790" height="200" as="geometry" />
+        <mxCell id="AI3ZiWeD6xOJFFjRsyec-15" value="Employee" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="AI3ZiWeD6xOJFFjRsyec-13">
+          <mxGeometry y="140" width="730" height="120" as="geometry">
+            <mxRectangle y="140" width="480" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="AI3ZiWeD6xOJFFjRsyec-5" value="Approver II" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="610" width="790" height="200" as="geometry" />
+        <mxCell id="AI3ZiWeD6xOJFFjRsyec-16" value="Approver I" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="AI3ZiWeD6xOJFFjRsyec-13">
+          <mxGeometry y="260" width="730" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="AI3ZiWeD6xOJFFjRsyec-7" value="Cashier" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="810" width="790" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="AI3ZiWeD6xOJFFjRsyec-8" value="Bank" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1010" width="790" height="200" as="geometry" />
+        <mxCell id="AI3ZiWeD6xOJFFjRsyec-18" value="Approver II" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="AI3ZiWeD6xOJFFjRsyec-13">
+          <mxGeometry y="380" width="730" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

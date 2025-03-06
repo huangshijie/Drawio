@@ -214,6 +214,9 @@
         <mxCell id="AI3ZiWeD6xOJFFjRsyec-7" value="Cashier" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="810" width="790" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="AI3ZiWeD6xOJFFjRsyec-8" value="Bank" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1010" width="790" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -205,10 +205,33 @@
         <mxCell id="AI3ZiWeD6xOJFFjRsyec-14" value="AI" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="AI3ZiWeD6xOJFFjRsyec-13">
           <mxGeometry y="20" width="800" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="AI3ZiWeD6xOJFFjRsyec-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="AI3ZiWeD6xOJFFjRsyec-14" source="AI3ZiWeD6xOJFFjRsyec-32" target="AI3ZiWeD6xOJFFjRsyec-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="277" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AI3ZiWeD6xOJFFjRsyec-32" value="Generate request" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=10;" vertex="1" parent="AI3ZiWeD6xOJFFjRsyec-14">
+          <mxGeometry x="137" y="30" width="93" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AI3ZiWeD6xOJFFjRsyec-36" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="AI3ZiWeD6xOJFFjRsyec-14">
+          <mxGeometry x="287" y="25" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AI3ZiWeD6xOJFFjRsyec-37" value="Generate request" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=10;" vertex="1" parent="AI3ZiWeD6xOJFFjRsyec-14">
+          <mxGeometry x="397" y="30" width="93" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="AI3ZiWeD6xOJFFjRsyec-15" value="Employee" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="AI3ZiWeD6xOJFFjRsyec-13">
           <mxGeometry y="140" width="800" height="120" as="geometry">
             <mxRectangle y="140" width="480" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AI3ZiWeD6xOJFFjRsyec-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AI3ZiWeD6xOJFFjRsyec-15" source="AI3ZiWeD6xOJFFjRsyec-29" target="AI3ZiWeD6xOJFFjRsyec-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AI3ZiWeD6xOJFFjRsyec-29" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=10;" vertex="1" parent="AI3ZiWeD6xOJFFjRsyec-15">
+          <mxGeometry x="47" y="35" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AI3ZiWeD6xOJFFjRsyec-30" value="Upload invoice" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=10;" vertex="1" parent="AI3ZiWeD6xOJFFjRsyec-15">
+          <mxGeometry x="137" y="40" width="93" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AI3ZiWeD6xOJFFjRsyec-16" value="Approver I" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="AI3ZiWeD6xOJFFjRsyec-13">
           <mxGeometry y="260" width="800" height="120" as="geometry" />
@@ -224,6 +247,9 @@
         </mxCell>
         <mxCell id="AI3ZiWeD6xOJFFjRsyec-23" value="..." style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="AI3ZiWeD6xOJFFjRsyec-13">
           <mxGeometry y="740" width="800" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AI3ZiWeD6xOJFFjRsyec-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="AI3ZiWeD6xOJFFjRsyec-13" source="AI3ZiWeD6xOJFFjRsyec-30" target="AI3ZiWeD6xOJFFjRsyec-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

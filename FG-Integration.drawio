@@ -486,7 +486,7 @@
         <mxCell id="7uRkf2Po2SwwWNvHw7ek-11" value="FG IDP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="250" width="60" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="7uRkf2Po2SwwWNvHw7ek-12" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;FG &lt;br&gt;Buyer1 &lt;br&gt;test&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;landscape&lt;br&gt;&lt;/span&gt;&amp;nbsp;IDP&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7uRkf2Po2SwwWNvHw7ek-12" value="&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;XCore1&lt;br&gt;&lt;/span&gt;&amp;nbsp;IDP&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="644" width="70" height="180" as="geometry" />
         </mxCell>
         <mxCell id="7uRkf2Po2SwwWNvHw7ek-13" value="Ariba Supplier 1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">

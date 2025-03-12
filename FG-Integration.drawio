@@ -455,7 +455,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8-8TLUukFVoMkBv46lpM" name="Page-5">
-    <mxGraphModel dx="2901" dy="1204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2293" dy="1047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -463,7 +463,7 @@
           <mxGeometry x="-740" y="150" width="670" height="430" as="geometry" />
         </mxCell>
         <mxCell id="7uRkf2Po2SwwWNvHw7ek-2" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry y="140" width="630" height="380" as="geometry" />
+          <mxGeometry x="-10" y="120" width="630" height="380" as="geometry" />
         </mxCell>
         <mxCell id="7uRkf2Po2SwwWNvHw7ek-5" value="Ariba IDP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-300" y="280" width="80" height="180" as="geometry" />
@@ -484,10 +484,13 @@
           <mxGeometry x="270" y="684" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7uRkf2Po2SwwWNvHw7ek-11" value="FG IDP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="250" width="60" height="180" as="geometry" />
+          <mxGeometry x="120" y="230" width="60" height="180" as="geometry" />
         </mxCell>
         <mxCell id="7uRkf2Po2SwwWNvHw7ek-12" value="&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;XCore1&lt;br&gt;&lt;/span&gt;&amp;nbsp;IDP&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="644" width="70" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="PACn6YuOnGg7Uqt2esp6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7uRkf2Po2SwwWNvHw7ek-13" target="7uRkf2Po2SwwWNvHw7ek-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7uRkf2Po2SwwWNvHw7ek-13" value="Ariba Supplier 1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-530" y="290" width="30" height="60" as="geometry" />
@@ -500,6 +503,13 @@
         </mxCell>
         <mxCell id="7uRkf2Po2SwwWNvHw7ek-24" value="FG buyer 1&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22ellipse%3Bshape%3Dcloud%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2240%22%20y%3D%2260%22%20width%3D%22540%22%20height%3D%22320%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PACn6YuOnGg7Uqt2esp6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7uRkf2Po2SwwWNvHw7ek-14" target="7uRkf2Po2SwwWNvHw7ek-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-415" y="714" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

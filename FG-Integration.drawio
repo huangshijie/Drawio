@@ -502,10 +502,10 @@
           <mxGeometry x="340" y="250" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H5Bb-l0C-0fOyvJq36E--1" value="FG IAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="50" width="60" height="180" as="geometry" />
+          <mxGeometry x="10" y="80" width="60" height="180" as="geometry" />
         </mxCell>
         <mxCell id="H5Bb-l0C-0fOyvJq36E--2" value="FG XCore1 IAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="440" width="60" height="180" as="geometry" />
+          <mxGeometry x="30" y="520" width="60" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

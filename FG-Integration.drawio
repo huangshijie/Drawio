@@ -632,20 +632,91 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CMLggUnvtcRl3k4IoCCq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMLggUnvtcRl3k4IoCCq-1" target="CMLggUnvtcRl3k4IoCCq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CMLggUnvtcRl3k4IoCCq-1" value="Sourcing UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMLggUnvtcRl3k4IoCCq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMLggUnvtcRl3k4IoCCq-2" target="CMLggUnvtcRl3k4IoCCq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMLggUnvtcRl3k4IoCCq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="CMLggUnvtcRl3k4IoCCq-2" target="CMLggUnvtcRl3k4IoCCq-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="160" />
+              <mxPoint x="570" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMLggUnvtcRl3k4IoCCq-26" value="Get oauth token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CMLggUnvtcRl3k4IoCCq-25">
+          <mxGeometry x="-0.0095" y="5" relative="1" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CMLggUnvtcRl3k4IoCCq-2" value="Sourcing backend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMLggUnvtcRl3k4IoCCq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMLggUnvtcRl3k4IoCCq-3" target="CMLggUnvtcRl3k4IoCCq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMLggUnvtcRl3k4IoCCq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMLggUnvtcRl3k4IoCCq-3" target="CMLggUnvtcRl3k4IoCCq-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CMLggUnvtcRl3k4IoCCq-3" value="Ingress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMLggUnvtcRl3k4IoCCq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CMLggUnvtcRl3k4IoCCq-4" target="CMLggUnvtcRl3k4IoCCq-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CMLggUnvtcRl3k4IoCCq-4" value="OpenAPI Gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CMLggUnvtcRl3k4IoCCq-5" value="jarivs-certification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMLggUnvtcRl3k4IoCCq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMLggUnvtcRl3k4IoCCq-14" target="CMLggUnvtcRl3k4IoCCq-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMLggUnvtcRl3k4IoCCq-14" value="Sourcing UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMLggUnvtcRl3k4IoCCq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMLggUnvtcRl3k4IoCCq-16" target="CMLggUnvtcRl3k4IoCCq-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMLggUnvtcRl3k4IoCCq-16" value="Sourcing backend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMLggUnvtcRl3k4IoCCq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMLggUnvtcRl3k4IoCCq-19" target="CMLggUnvtcRl3k4IoCCq-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMLggUnvtcRl3k4IoCCq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CMLggUnvtcRl3k4IoCCq-16" target="CMLggUnvtcRl3k4IoCCq-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="630" />
+              <mxPoint x="750" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMLggUnvtcRl3k4IoCCq-23" value="/private&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CMLggUnvtcRl3k4IoCCq-18">
+          <mxGeometry x="0.0102" y="-6" relative="1" as="geometry">
+            <mxPoint y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMLggUnvtcRl3k4IoCCq-19" value="Ingress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMLggUnvtcRl3k4IoCCq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CMLggUnvtcRl3k4IoCCq-21" target="CMLggUnvtcRl3k4IoCCq-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMLggUnvtcRl3k4IoCCq-21" value="OpenAPI Gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMLggUnvtcRl3k4IoCCq-22" value="jarivs-certification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMLggUnvtcRl3k4IoCCq-24" value="mTLS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="628" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

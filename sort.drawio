@@ -319,7 +319,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2_7xKYU-Y2_9buencNWH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="260" width="340" height="150" as="geometry" />
+          <mxGeometry x="140" y="260" width="340" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2_7xKYU-Y2_9buencNWH-2" value="Clothing Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="280" width="140" height="50" as="geometry" />
@@ -328,7 +328,7 @@
           <mxGeometry x="320" y="280" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2_7xKYU-Y2_9buencNWH-4" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="295" y="110" width="30" height="60" as="geometry" />
+          <mxGeometry x="295" y="160" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

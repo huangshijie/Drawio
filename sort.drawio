@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13" pages="2">
   <diagram name="ER-V1" id="4bGwuB6sIibrGwsloiAb">
     <mxGraphModel dx="2068" dy="1126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -327,21 +327,33 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6EnvZmsthlZhHBsakgvD" name="Page-2">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1253" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2_7xKYU-Y2_9buencNWH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2_7xKYU-Y2_9buencNWH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="260" width="340" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="2_7xKYU-Y2_9buencNWH-2" value="Clothing Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2_7xKYU-Y2_9buencNWH-2" value="Clothing Management" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="280" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2_7xKYU-Y2_9buencNWH-3" value="Outfit Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2_7xKYU-Y2_9buencNWH-3" value="Outfit Management" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="280" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2_7xKYU-Y2_9buencNWH-4" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="2_7xKYU-Y2_9buencNWH-4" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="295" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MDiqQSGiYdbBw8mefQ20-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MDiqQSGiYdbBw8mefQ20-3" value="Feature extraction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="480" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MDiqQSGiYdbBw8mefQ20-5" value="Data excater&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MDiqQSGiYdbBw8mefQ20-6" value="Data excater&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="480" width="80" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

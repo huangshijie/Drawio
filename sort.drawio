@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.9" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6" pages="3">
   <diagram name="ER-V1" id="4bGwuB6sIibrGwsloiAb">
     <mxGraphModel dx="1252" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -327,12 +327,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6EnvZmsthlZhHBsakgvD" name="Page-2">
-    <mxGraphModel dx="1200" dy="1049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="1018" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2_7xKYU-Y2_9buencNWH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="260" width="340" height="100" as="geometry" />
+          <mxGeometry x="110" y="260" width="370" height="180" as="geometry" />
         </mxCell>
         <mxCell id="2_7xKYU-Y2_9buencNWH-2" value="Clothing Management" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="280" width="140" height="50" as="geometry" />
@@ -356,10 +356,13 @@
           <mxGeometry x="455" y="580" width="80" height="130" as="geometry" />
         </mxCell>
         <mxCell id="85vAzviHA2a4OL7HeORZ-2" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="200" y="400" width="60" height="80" as="geometry" />
+          <mxGeometry x="140" y="480" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="85vAzviHA2a4OL7HeORZ-3" value="Integration with Wether API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="335" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yjmK8BEN5SBnupt23eH7-1" value="Payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="370" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

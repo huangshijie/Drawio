@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.1.0" pages="2">
   <diagram name="Page-1" id="re8BFB7v5y9mi5kUr2NE">
     <mxGraphModel dx="2514" dy="1461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -25,10 +25,10 @@
         <mxCell id="kDZXU9diaD593x2A9GFj-6" value="11.13" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kDZXU9diaD593x2A9GFj-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.483;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="kDZXU9diaD593x2A9GFj-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="580" as="sourcePoint" />
-            <mxPoint x="530.1729999999998" y="220" as="targetPoint" />
+            <mxPoint x="530" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kDZXU9diaD593x2A9GFj-8" value="Enable split for all buye&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;rs&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Target: Support all buyers to use new NEXTGen Messaging app&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -50,7 +50,69 @@
           <mxGeometry x="700" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kDZXU9diaD593x2A9GFj-13" value="Enable split for all suppliers&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Target: Support all suppliers to use new NEXTGen Messaging app&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="685" y="590" width="150" height="110" as="geometry" />
+          <mxGeometry x="560" y="220" width="150" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="kDZXU9diaD593x2A9GFj-14" value="X day in December" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tC7kvVEJk-JZzaxTmxPD" name="Page-2">
+    <mxGraphModel dx="2695" dy="1218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ABMDzVswrpKUAikWKiSH-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-450" y="590" as="sourcePoint" />
+            <mxPoint x="1490" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKgvwP1peomQJxTkoLNs-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="650" as="sourcePoint" />
+            <mxPoint x="450" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKgvwP1peomQJxTkoLNs-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="650" as="sourcePoint" />
+            <mxPoint x="30" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ABMDzVswrpKUAikWKiSH-1" value="November" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="230" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ABMDzVswrpKUAikWKiSH-2" value="December" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="210" y="230" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ABMDzVswrpKUAikWKiSH-3" value="January" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="610" y="230" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ABMDzVswrpKUAikWKiSH-4" value="February" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="230" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ABMDzVswrpKUAikWKiSH-6" value="&lt;ol style=&quot;text-align: left;&quot;&gt;&lt;li&gt;Implementation Messaging Client&lt;/li&gt;&lt;li&gt;Replace UI with UI5&lt;/li&gt;&lt;li&gt;Support messaging between pure NEXTGen customers&lt;/li&gt;&lt;li&gt;Pull data for case GEN1 with NEXTGen&lt;/li&gt;&lt;li&gt;Settings migration&lt;/li&gt;&lt;li&gt;Data migration for 9 KSA buyers&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="290" width="370" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ABMDzVswrpKUAikWKiSH-7" value="October" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="230" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MKgvwP1peomQJxTkoLNs-5" value="13th Nov" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MKgvwP1peomQJxTkoLNs-6" value="X day in December" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="410" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-XjsBCyEHbCzT7WxrRL1-1" value="Data migration for buyers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="130" y="290" width="260" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="oeFNWCuTNVBImagseJ4r-1" value="Notification integration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="660" y="290" width="330" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="oeFNWCuTNVBImagseJ4r-2" value="Teams integration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="290" width="330" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

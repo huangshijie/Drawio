@@ -174,9 +174,6 @@
         <mxCell id="spP0biMAlbGBaAp80Qfm-21" value="Enable split for all customers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1387.5" y="590" width="105" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="spP0biMAlbGBaAp80Qfm-23" value="Teams integration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="220" width="180" height="270" as="geometry" />
-        </mxCell>
         <mxCell id="spP0biMAlbGBaAp80Qfm-24" value="20th Dec&lt;div&gt;AN CF&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;fontColor=#333333;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="60" width="80" height="80" as="geometry" />
         </mxCell>

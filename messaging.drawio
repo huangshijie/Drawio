@@ -1,9 +1,27 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.1.0">
   <diagram name="Page-1" id="re8BFB7v5y9mi5kUr2NE">
-    <mxGraphModel>
+    <mxGraphModel dx="2514" dy="1461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kDZXU9diaD593x2A9GFj-1" value="Till 11.13" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="200" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kDZXU9diaD593x2A9GFj-2" value="&lt;ol&gt;&lt;li&gt;Implementation Messaging Client&lt;/li&gt;&lt;li&gt;Replace UI with UI5&lt;/li&gt;&lt;li&gt;Support messaging between pure NEXTGen customers&lt;/li&gt;&lt;li&gt;Pull data for case GEN1 with NEXTGen&lt;/li&gt;&lt;li&gt;Settings migration&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="250" width="185" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="kDZXU9diaD593x2A9GFj-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="610" as="sourcePoint" />
+            <mxPoint x="280" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kDZXU9diaD593x2A9GFj-4" value="End of December" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="299" y="200" width="431" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kDZXU9diaD593x2A9GFj-5" value="Enable split for buye&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;r in KAS DC&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Target: Support all buyers to use new NEXTGen Messaging app&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="620" width="150" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

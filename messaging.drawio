@@ -63,22 +63,34 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="spP0biMAlbGBaAp80Qfm-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+        <mxCell id="spP0biMAlbGBaAp80Qfm-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1000" y="580" as="sourcePoint" />
-            <mxPoint x="1000" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="spP0biMAlbGBaAp80Qfm-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-140" y="580" as="sourcePoint" />
-            <mxPoint x="-140" y="150" as="targetPoint" />
+            <mxPoint x="649.58" y="160" as="sourcePoint" />
+            <mxPoint x="649.58" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ABMDzVswrpKUAikWKiSH-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-450" y="530" as="sourcePoint" />
             <mxPoint x="1610" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="spP0biMAlbGBaAp80Qfm-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1439.58" y="580" as="sourcePoint" />
+            <mxPoint x="1439.58" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="spP0biMAlbGBaAp80Qfm-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="580" as="sourcePoint" />
+            <mxPoint x="1000" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="spP0biMAlbGBaAp80Qfm-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ABMDzVswrpKUAikWKiSH-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="580" as="sourcePoint" />
+            <mxPoint x="-140" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="spP0biMAlbGBaAp80Qfm-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
@@ -111,8 +123,8 @@
         <mxCell id="ABMDzVswrpKUAikWKiSH-4" value="February" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1160" y="160" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ABMDzVswrpKUAikWKiSH-6" value="&lt;ol style=&quot;text-align: left;&quot;&gt;&lt;li&gt;Implementation Messaging Client&lt;/li&gt;&lt;li&gt;Replace UI with UI5&lt;/li&gt;&lt;li&gt;Support messaging between pure NEXTGen customers&lt;/li&gt;&lt;li&gt;Using GEN1 messaging platform for messaging between GEN1 and NEXTGen customers&lt;/li&gt;&lt;li&gt;Settings migration for all KSA buyers&lt;/li&gt;&lt;li&gt;Reverse sync org preference to GEN1 for contact list (May need to apply Post Code Frezze Approval)&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="220" width="510" height="270" as="geometry" />
+        <mxCell id="ABMDzVswrpKUAikWKiSH-6" value="&lt;ol style=&quot;text-align: left;&quot;&gt;&lt;li&gt;Implementation Messaging Client&lt;/li&gt;&lt;li&gt;Replace UI with UI5&lt;/li&gt;&lt;li&gt;Support messaging between pure NEXTGen customers&lt;/li&gt;&lt;li&gt;Using GEN1 messaging platform for messaging between GEN1 and NEXTGen customers&lt;/li&gt;&lt;li&gt;Settings migration for all KSA buyers (Enable GEN1 messaging service)&lt;/li&gt;&lt;li&gt;Reverse sync org preference to GEN1 for contact list (May need to apply Post Code Frezze Approval)&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="220" width="520" height="270" as="geometry" />
         </mxCell>
         <mxCell id="ABMDzVswrpKUAikWKiSH-7" value="October" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-440" y="160" width="400" height="30" as="geometry" />
@@ -126,11 +138,11 @@
         <mxCell id="-XjsBCyEHbCzT7WxrRL1-1" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Data migration for rest buyers settings&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="1">
           <mxGeometry x="140" y="220" width="100" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="oeFNWCuTNVBImagseJ4r-1" value="&lt;ol&gt;&lt;li&gt;Implementation for notification mail integration to send and receive mail&lt;/li&gt;&lt;li&gt;UI implementation for mail configuration&lt;/li&gt;&lt;li&gt;Implementation to disable GEN1 notification service( check replier&#39;s runtime version or forward ??? ) and allow both GEN1 and NEXTGen notification service receives customer reply&amp;nbsp;&lt;/li&gt;&lt;li&gt;Mail settings migration for all&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="1">
+        <mxCell id="oeFNWCuTNVBImagseJ4r-1" value="&lt;ol&gt;&lt;li&gt;Implementation for notification mail integration to send and receive mail&lt;/li&gt;&lt;li&gt;UI implementation for mail configuration&lt;/li&gt;&lt;li&gt;Implementation to disable GEN1 notification service( check replier&#39;s runtime version or forward, ??? ) and allow both GEN1 and NEXTGen notification service receives customer reply&amp;nbsp;&lt;/li&gt;&lt;li&gt;Mail settings migration for all&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="1">
           <mxGeometry x="540" y="220" width="430" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="oeFNWCuTNVBImagseJ4r-2" value="Teams integration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="220" width="330" height="270" as="geometry" />
+        <mxCell id="oeFNWCuTNVBImagseJ4r-2" value="P2P integration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="220" width="380" height="270" as="geometry" />
         </mxCell>
         <mxCell id="v001AgsvpaRFh24jLyiA-1" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Enable split for buye&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;rs in KSA DC&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="55" y="590" width="130" height="80" as="geometry" />
@@ -145,19 +157,28 @@
           <mxGeometry x="457.5" y="590" width="105" height="80" as="geometry" />
         </mxCell>
         <mxCell id="spP0biMAlbGBaAp80Qfm-13" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Data migration for suppliers&#39; conversion data&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Implementation for forward sync for external partner(like P2P...) in GEN1 (new split dependent on supplier-messaging-enabled)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Implementation for forward sync for customer reply legacy mail notification&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="287.5" y="220" width="202.5" height="270" as="geometry" />
+          <mxGeometry x="280" y="220" width="210" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="spP0biMAlbGBaAp80Qfm-15" value="23th Oct" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="spP0biMAlbGBaAp80Qfm-15" value="23th Oct&lt;div&gt;AN CF&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;fontColor=#333333;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="60" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="spP0biMAlbGBaAp80Qfm-16" value="AN Code Freeze" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="590" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="spP0biMAlbGBaAp80Qfm-17" value="18th January" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="960" y="60" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="spP0biMAlbGBaAp80Qfm-19" value="Enable split for all customers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="947.5" y="590" width="105" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="spP0biMAlbGBaAp80Qfm-20" value="13th February" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="spP0biMAlbGBaAp80Qfm-21" value="Enable split for all customers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1387.5" y="590" width="105" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="spP0biMAlbGBaAp80Qfm-23" value="Teams integration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="220" width="180" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="spP0biMAlbGBaAp80Qfm-24" value="20th Dec&lt;div&gt;AN CF&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;fontColor=#333333;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="60" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

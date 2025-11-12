@@ -36,6 +36,12 @@
         <mxCell id="b8owgEKFV409vjKO7SAw-3" value="年龄，历史出游习惯，是否有车" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="b8owgEKFV409vjKO7SAw-4" value="扒数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b8owgEKFV409vjKO7SAw-5" value="AI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

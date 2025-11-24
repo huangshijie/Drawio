@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T08:30:57.647Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Lb1Wf3JKl3hoiIcd3PdD" version="21.6.8" type="github" pages="13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9" pages="13">
   <diagram name="phase one block diagram" id="4YtnG2kRDNjNFjsuQ804">
-    <mxGraphModel dx="2074" dy="1204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="1455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ty4t2j5JDmEToLUeei0F-69" value="1.2 push request event" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Ty4t2j5JDmEToLUeei0F-68" vertex="1" connectable="0">
+        <mxCell id="Ty4t2j5JDmEToLUeei0F-69" value="1.2/2.2 push request event" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Ty4t2j5JDmEToLUeei0F-68" vertex="1" connectable="0">
           <mxGeometry x="0.3" y="3" relative="1" as="geometry">
             <mxPoint x="-3" y="8" as="offset" />
           </mxGeometry>
@@ -71,7 +71,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ty4t2j5JDmEToLUeei0F-19" value="1.4.2 notify with notification service" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Ty4t2j5JDmEToLUeei0F-18" vertex="1" connectable="0">
+        <mxCell id="Ty4t2j5JDmEToLUeei0F-19" value="1.4.2/2.4.2 notify with notification service" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Ty4t2j5JDmEToLUeei0F-18" vertex="1" connectable="0">
           <mxGeometry x="-0.2865" y="1" relative="1" as="geometry">
             <mxPoint x="37" y="-9" as="offset" />
           </mxGeometry>
@@ -81,14 +81,9 @@
             <mxPoint x="330" y="420" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ty4t2j5JDmEToLUeei0F-21" value="1.3 consume&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Ty4t2j5JDmEToLUeei0F-20" vertex="1" connectable="0">
+        <mxCell id="Ty4t2j5JDmEToLUeei0F-21" value="1.3/2.3 consume&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Ty4t2j5JDmEToLUeei0F-20" vertex="1" connectable="0">
           <mxGeometry x="0.0246" y="2" relative="1" as="geometry">
-            <mxPoint x="-17" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ty4t2j5JDmEToLUeei0F-22" value="1.4.1 notify with mail" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ty4t2j5JDmEToLUeei0F-23" target="Ty4t2j5JDmEToLUeei0F-44" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="3" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ty4t2j5JDmEToLUeei0F-23" value="request-consumer-service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" parent="1" vertex="1">
@@ -140,7 +135,7 @@
             <mxPoint x="840" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ty4t2j5JDmEToLUeei0F-38" value="1.5 consume notification events" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Ty4t2j5JDmEToLUeei0F-37" vertex="1" connectable="0">
+        <mxCell id="Ty4t2j5JDmEToLUeei0F-38" value="1.5/2.5 consume notification events" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Ty4t2j5JDmEToLUeei0F-37" vertex="1" connectable="0">
           <mxGeometry x="0.0398" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -188,6 +183,11 @@
         </mxCell>
         <mxCell id="zoIcQWH-cHmLm1Tkh0ie-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logosandtypes.com/wp-content/uploads/2020/07/kafka.svg;" parent="1" vertex="1">
           <mxGeometry x="930" y="512" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ty4t2j5JDmEToLUeei0F-22" value="1.4.1/2.4.1 notify with mail" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ty4t2j5JDmEToLUeei0F-23" target="Ty4t2j5JDmEToLUeei0F-44" edge="1">
+          <mxGeometry x="0.1667" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

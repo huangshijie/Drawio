@@ -439,20 +439,20 @@
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Post" vertex="1">
           <mxGeometry height="80" width="80" x="390" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="fJZ9LOV6cjaZa3zrUw4s-2" edge="1" parent="1" source="fJZ9LOV6cjaZa3zrUw4s-3" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="fJZ9LOV6cjaZa3zrUw4s-1" value="">
+        <mxCell id="fJZ9LOV6cjaZa3zrUw4s-2" edge="1" parent="1" source="fJZ9LOV6cjaZa3zrUw4s-3" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="fJZ9LOV6cjaZa3zrUw4s-1" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="300" y="240" as="sourcePoint" />
             <mxPoint x="290" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="UI" vertex="1">
-          <mxGeometry height="60" width="120" x="170" y="150" as="geometry" />
+          <mxGeometry height="60" width="120" x="180" y="60" as="geometry" />
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-5" edge="1" parent="1" source="fJZ9LOV6cjaZa3zrUw4s-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="fJZ9LOV6cjaZa3zrUw4s-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3rd partner" vertex="1">
-          <mxGeometry height="60" width="120" x="320" y="60" as="geometry" />
+          <mxGeometry height="60" width="120" x="350" y="60" as="geometry" />
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-7" edge="1" parent="1" source="fJZ9LOV6cjaZa3zrUw4s-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
@@ -460,7 +460,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mail reply" vertex="1">
-          <mxGeometry height="60" width="120" x="500" y="60" as="geometry" />
+          <mxGeometry height="60" width="120" x="520" y="60" as="geometry" />
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-9" edge="1" parent="1" source="fJZ9LOV6cjaZa3zrUw4s-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="fJZ9LOV6cjaZa3zrUw4s-1">
           <mxGeometry relative="1" as="geometry" />

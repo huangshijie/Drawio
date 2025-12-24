@@ -433,8 +433,18 @@
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-32" edge="1" parent="1" source="fJZ9LOV6cjaZa3zrUw4s-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fJZ9LOV6cjaZa3zrUw4s-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fJZ9LOV6cjaZa3zrUw4s-46" connectable="0" parent="fJZ9LOV6cjaZa3zrUw4s-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Create participant if not exist,&amp;nbsp;&lt;div&gt;at most one record created&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2522" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-41" edge="1" parent="1" source="fJZ9LOV6cjaZa3zrUw4s-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fJZ9LOV6cjaZa3zrUw4s-38">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fJZ9LOV6cjaZa3zrUw4s-50" connectable="0" parent="fJZ9LOV6cjaZa3zrUw4s-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="New post add into conversation,&amp;nbsp;&lt;div&gt;update conversation read count for all orgs&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.3938" y="4" as="geometry">
+            <mxPoint x="20" y="-23" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Post" vertex="1">
           <mxGeometry height="80" width="80" x="390" y="240" as="geometry" />
@@ -473,11 +483,26 @@
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-31" edge="1" parent="1" source="fJZ9LOV6cjaZa3zrUw4s-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fJZ9LOV6cjaZa3zrUw4s-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fJZ9LOV6cjaZa3zrUw4s-47" connectable="0" parent="fJZ9LOV6cjaZa3zrUw4s-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Create participant if not exist,&amp;nbsp;&lt;div&gt;at most two record created&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" y="1" as="geometry">
+            <mxPoint y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-34" edge="1" parent="1" source="fJZ9LOV6cjaZa3zrUw4s-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fJZ9LOV6cjaZa3zrUw4s-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fJZ9LOV6cjaZa3zrUw4s-48" connectable="0" parent="fJZ9LOV6cjaZa3zrUw4s-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Create orgs if not exist,&amp;nbsp;&lt;div&gt;at most two record created&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1187" as="geometry">
+            <mxPoint y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-40" edge="1" parent="1" source="fJZ9LOV6cjaZa3zrUw4s-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fJZ9LOV6cjaZa3zrUw4s-39">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fJZ9LOV6cjaZa3zrUw4s-49" connectable="0" parent="fJZ9LOV6cjaZa3zrUw4s-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1:1" vertex="1">
+          <mxGeometry relative="1" x="-0.2029" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Conversation" vertex="1">
           <mxGeometry height="80" width="80" x="200" y="510" as="geometry" />
@@ -545,7 +570,7 @@
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Conversation&lt;div&gt;Participant&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="410" y="660" as="geometry" />
         </mxCell>
-        <mxCell id="fJZ9LOV6cjaZa3zrUw4s-36" edge="1" parent="1" source="fJZ9LOV6cjaZa3zrUw4s-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.263;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;dashPattern=8 8;" target="fJZ9LOV6cjaZa3zrUw4s-35">
+        <mxCell id="fJZ9LOV6cjaZa3zrUw4s-36" edge="1" parent="1" source="fJZ9LOV6cjaZa3zrUw4s-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=8 8;" target="fJZ9LOV6cjaZa3zrUw4s-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-38" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Conversation&lt;div&gt;ReadCount&lt;/div&gt;" vertex="1">
@@ -558,7 +583,7 @@
           <mxGeometry height="80" width="80" x="730" y="510" as="geometry" />
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-44" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Participant&lt;div&gt;Profile&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="80" x="730" y="660" as="geometry" />
+          <mxGeometry height="80" width="80" x="650" y="660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

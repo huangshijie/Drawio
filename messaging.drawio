@@ -486,7 +486,7 @@
           <mxGeometry height="80" width="80" x="650" y="240" as="geometry" />
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Post&lt;/div&gt;&lt;div&gt;Content&lt;/div&gt;&lt;div&gt;Conversation&lt;/div&gt;&lt;div&gt;Media&lt;/div&gt;&lt;div&gt;PostMedia&lt;/div&gt;&lt;div&gt;Participant&lt;/div&gt;&lt;div&gt;ParticipantProfile&lt;/div&gt;&lt;div&gt;ConversationOrg&lt;/div&gt;&lt;div&gt;ConversationParticipant&lt;/div&gt;&lt;div&gt;ConversationParticipantProfile&lt;/div&gt;&lt;div&gt;ConversationReadCount&lt;/div&gt;&lt;div&gt;ConversationDomain&lt;/div&gt;&lt;div&gt;ParticipantDisplayValue&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="1050" y="110" as="geometry" />
+          <mxGeometry height="200" width="200" x="990" y="40" as="geometry" />
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-30" edge="1" parent="1" source="fJZ9LOV6cjaZa3zrUw4s-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=8 8;" target="fJZ9LOV6cjaZa3zrUw4s-22">
           <mxGeometry relative="1" as="geometry" />

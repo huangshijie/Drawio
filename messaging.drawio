@@ -445,7 +445,7 @@
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-46" connectable="0" parent="fJZ9LOV6cjaZa3zrUw4s-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Create participant if not exist,&amp;nbsp;&lt;div&gt;at most one record created&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.2522" y="-2" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="5" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-41" edge="1" parent="1" source="fJZ9LOV6cjaZa3zrUw4s-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fJZ9LOV6cjaZa3zrUw4s-38">
@@ -503,7 +503,7 @@
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-48" connectable="0" parent="fJZ9LOV6cjaZa3zrUw4s-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Create orgs if not exist,&amp;nbsp;&lt;div&gt;at most two record created&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.1187" as="geometry">
-            <mxPoint y="60" as="offset" />
+            <mxPoint y="70" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-40" edge="1" parent="1" source="fJZ9LOV6cjaZa3zrUw4s-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fJZ9LOV6cjaZa3zrUw4s-39">

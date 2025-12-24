@@ -605,7 +605,7 @@
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-44" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Participant&lt;div&gt;Profile&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="580" y="670" as="geometry" />
         </mxCell>
-        <mxCell id="fJZ9LOV6cjaZa3zrUw4s-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Unique of participant&lt;div&gt;1. From UI, partnerID(11111-11111-11111-11111) + orgAnId (bnoid) + userId&lt;/div&gt;" vertex="1">
+        <mxCell id="fJZ9LOV6cjaZa3zrUw4s-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Unique of participant&lt;div&gt;1. From UI, partnerID(11111-11111-11111-11111) + orgAnId (bnoId) + userId&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="440" x="-360" y="940" as="geometry" />
         </mxCell>
       </root>

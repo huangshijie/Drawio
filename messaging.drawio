@@ -419,7 +419,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fJZ9LOV6cjaZa3zrUw4s-12" edge="1" parent="1" source="fJZ9LOV6cjaZa3zrUw4s-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fJZ9LOV6cjaZa3zrUw4s-11">
+        <mxCell id="fJZ9LOV6cjaZa3zrUw4s-12" edge="1" parent="1" source="fJZ9LOV6cjaZa3zrUw4s-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fJZ9LOV6cjaZa3zrUw4s-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-14" connectable="0" parent="fJZ9LOV6cjaZa3zrUw4s-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Always create content" vertex="1">
@@ -498,7 +498,7 @@
             <mxPoint y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fJZ9LOV6cjaZa3zrUw4s-34" edge="1" parent="1" source="fJZ9LOV6cjaZa3zrUw4s-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fJZ9LOV6cjaZa3zrUw4s-33">
+        <mxCell id="fJZ9LOV6cjaZa3zrUw4s-34" edge="1" parent="1" source="fJZ9LOV6cjaZa3zrUw4s-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.688;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;" target="fJZ9LOV6cjaZa3zrUw4s-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-48" connectable="0" parent="fJZ9LOV6cjaZa3zrUw4s-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Create orgs if not exist,&amp;nbsp;&lt;div&gt;at most two record created&lt;/div&gt;" vertex="1">
@@ -518,7 +518,7 @@
           <mxGeometry height="80" width="80" x="200" y="510" as="geometry" />
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Content" vertex="1">
-          <mxGeometry height="80" width="80" x="650" y="240" as="geometry" />
+          <mxGeometry height="80" width="80" x="770" y="160" as="geometry" />
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Post&lt;/div&gt;&lt;div&gt;Content&lt;/div&gt;&lt;div&gt;Conversation&lt;/div&gt;&lt;div&gt;Media&lt;/div&gt;&lt;div&gt;PostMedia&lt;/div&gt;&lt;div&gt;Participant&lt;/div&gt;&lt;div&gt;ParticipantProfile&lt;/div&gt;&lt;div&gt;ConversationOrg&lt;/div&gt;&lt;div&gt;ConversationParticipant&lt;/div&gt;&lt;div&gt;ConversationParticipantProfile&lt;/div&gt;&lt;div&gt;ConversationReadCount&lt;/div&gt;&lt;div&gt;ConversationDomain&lt;/div&gt;&lt;div&gt;ParticipantDisplayValue&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="200" x="990" y="40" as="geometry" />
@@ -555,13 +555,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="UI" vertex="1">
-          <mxGeometry height="60" width="120" x="-40" y="520" as="geometry" />
+          <mxGeometry height="60" width="120" x="-80" y="520" as="geometry" />
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-20" edge="1" parent="1" source="fJZ9LOV6cjaZa3zrUw4s-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="fJZ9LOV6cjaZa3zrUw4s-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="3rd partner" vertex="1">
-          <mxGeometry height="60" width="120" x="10" y="680" as="geometry" />
+          <mxGeometry height="60" width="120" x="-40" y="670" as="geometry" />
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" value="PostMedia" vertex="1">
           <mxGeometry height="80" width="80" x="140" y="240" as="geometry" />
@@ -585,7 +585,7 @@
           <mxGeometry height="60" width="120" x="-160" y="380" as="geometry" />
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Conversation&lt;div&gt;Org&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="80" x="140" y="818" as="geometry" />
+          <mxGeometry height="80" width="80" x="100" y="800" as="geometry" />
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Conversation&lt;div&gt;Participant&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="390" y="650" as="geometry" />
@@ -594,7 +594,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-38" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Conversation&lt;div&gt;ReadCount&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="80" x="620" y="390" as="geometry" />
+          <mxGeometry height="80" width="80" x="770" y="340" as="geometry" />
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-39" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Conversation&lt;div&gt;Domain&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="330" y="778" as="geometry" />
@@ -606,7 +606,7 @@
           <mxGeometry height="80" width="80" x="580" y="670" as="geometry" />
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Unique of participant&lt;div&gt;1. From UI, partnerId (11111-11111-11111-11111) + orgAnId (bnoId) + userId&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2. From 3rd,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;partnerId +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;orgAnId + userId&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;3. From mail, partnerId + orgAnId (bnoId) + mailAddress&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="270" width="440" x="-360" y="940" as="geometry" />
+          <mxGeometry height="120" width="440" x="-440" y="920" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

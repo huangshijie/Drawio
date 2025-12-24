@@ -437,7 +437,7 @@
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-52" connectable="0" parent="fJZ9LOV6cjaZa3zrUw4s-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="at most one record" vertex="1">
           <mxGeometry relative="1" x="-0.3256" as="geometry">
-            <mxPoint x="-10" y="11" as="offset" />
+            <mxPoint x="-23" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-32" edge="1" parent="1" source="fJZ9LOV6cjaZa3zrUw4s-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fJZ9LOV6cjaZa3zrUw4s-16">
@@ -554,7 +554,7 @@
           <mxGeometry height="60" width="120" x="10" y="680" as="geometry" />
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="PostMedia" vertex="1">
-          <mxGeometry height="80" width="80" x="160" y="280" as="geometry" />
+          <mxGeometry height="80" width="80" x="140" y="240" as="geometry" />
         </mxCell>
         <mxCell id="fJZ9LOV6cjaZa3zrUw4s-24" edge="1" parent="1" source="fJZ9LOV6cjaZa3zrUw4s-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="fJZ9LOV6cjaZa3zrUw4s-15">
           <mxGeometry relative="1" as="geometry" />

@@ -352,7 +352,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KwRjpV8ZlChHJ_ClyetN-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="430" width="690" x="60" y="540" as="geometry" />
+          <mxGeometry height="430" width="690" x="60" y="550" as="geometry" />
         </mxCell>
         <mxCell id="KwRjpV8ZlChHJ_ClyetN-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="450" width="790" x="90" y="30" as="geometry" />
@@ -460,9 +460,9 @@
         <mxCell id="KwRjpV8ZlChHJ_ClyetN-13" edge="1" parent="1" source="KwRjpV8ZlChHJ_ClyetN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KwRjpV8ZlChHJ_ClyetN-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KwRjpV8ZlChHJ_ClyetN-22" connectable="0" parent="KwRjpV8ZlChHJ_ClyetN-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" value="Receive hard-delete event" vertex="1">
+        <mxCell id="KwRjpV8ZlChHJ_ClyetN-22" connectable="0" parent="KwRjpV8ZlChHJ_ClyetN-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" value="Receive&amp;nbsp;&lt;div&gt;hard-delete event&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.1571" y="-2" as="geometry">
-            <mxPoint x="-17" y="-14" as="offset" />
+            <mxPoint x="-17" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KwRjpV8ZlChHJ_ClyetN-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" value="DELETED" vertex="1">

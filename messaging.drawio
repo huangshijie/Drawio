@@ -503,7 +503,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZMg0QSGalMwAIDppC1-B-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="One of org is offboarding" vertex="1">
-          <mxGeometry height="30" width="240" x="295" y="220" as="geometry" />
+          <mxGeometry height="30" width="240" x="275" y="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -347,13 +347,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-AV5xH7mtzg9YyiBiK3W" name="Page-4">
-    <mxGraphModel dx="1561" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1715" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1715" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NoWNh9ycIAGv5pp3cUxR-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="450" width="840" x="330" y="300" as="geometry" />
-        </mxCell>
         <mxCell id="EQN6aGnl2n3rHcMD0NUv-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" value="OPEN" vertex="1">
           <mxGeometry height="80" width="80" x="590" y="390" as="geometry" />
         </mxCell>
@@ -376,16 +373,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EQN6aGnl2n3rHcMD0NUv-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Buyer disable its&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;messaging setting or&amp;nbsp;&lt;br&gt;One of org is offboarding&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="750" y="390" as="geometry" />
+          <mxGeometry height="30" width="60" x="750" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="EQN6aGnl2n3rHcMD0NUv-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Buyer enable its&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;messaging setting back&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;and there&#39;s no org is offboarding&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="750" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="EQN6aGnl2n3rHcMD0NUv-14" edge="1" parent="1" source="EQN6aGnl2n3rHcMD0NUv-4" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="EQN6aGnl2n3rHcMD0NUv-1" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="700" y="590" as="sourcePoint" />
-            <mxPoint x="580" y="490" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="EQN6aGnl2n3rHcMD0NUv-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Buyer enable its&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;messaging setting back&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;and there&#39;s no&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;offboarding&lt;/span&gt;&lt;span style=&quot;font-size: 11px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;participant org&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="60" x="780" y="440" as="geometry" />
         </mxCell>
         <mxCell id="EQN6aGnl2n3rHcMD0NUv-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Buyer/Supplier close/reopen conversation" vertex="1">
           <mxGeometry height="30" width="60" x="490" y="510" as="geometry" />
@@ -423,6 +414,18 @@
         <mxCell id="KwRjpV8ZlChHJ_ClyetN-2" connectable="0" parent="KwRjpV8ZlChHJ_ClyetN-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="All participant orgs are offboarded&amp;nbsp;&lt;div&gt;in the conversation&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.2806" y="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwRjpV8ZlChHJ_ClyetN-3" edge="1" parent="1" source="EQN6aGnl2n3rHcMD0NUv-1" style="endArrow=classic;html=1;rounded=0;entryX=0.05;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.961;exitY=0.307;exitDx=0;exitDy=0;exitPerimeter=0;" target="EQN6aGnl2n3rHcMD0NUv-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="700" y="430" as="sourcePoint" />
+            <mxPoint x="750" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwRjpV8ZlChHJ_ClyetN-4" edge="1" parent="1" source="EQN6aGnl2n3rHcMD0NUv-4" style="endArrow=classic;html=1;rounded=0;entryX=0.992;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.014;exitY=0.619;exitDx=0;exitDy=0;exitPerimeter=0;" target="EQN6aGnl2n3rHcMD0NUv-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="830" y="490" as="sourcePoint" />
+            <mxPoint x="880" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

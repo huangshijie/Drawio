@@ -347,7 +347,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-AV5xH7mtzg9YyiBiK3W" name="Page-4">
-    <mxGraphModel dx="1873" dy="1201" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1715" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1715" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -486,7 +486,7 @@
         <mxCell id="KwRjpV8ZlChHJ_ClyetN-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;" value="Buyer enable messaging settings" vertex="1">
           <mxGeometry height="30" width="90" x="275" y="920" as="geometry" />
         </mxCell>
-        <mxCell id="KwRjpV8ZlChHJ_ClyetN-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Buyer/supplier&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;is offboarding&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="KwRjpV8ZlChHJ_ClyetN-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Receive soft-delete event&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="230" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="ZMg0QSGalMwAIDppC1-B-1" edge="1" parent="1" source="EQN6aGnl2n3rHcMD0NUv-3" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EQN6aGnl2n3rHcMD0NUv-4" value="">

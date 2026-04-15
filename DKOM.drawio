@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="gB__3KrHpZ1m8fh1elBC">
-    <mxGraphModel>
+    <mxGraphModel dx="1006" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1715" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CLKchlIlr3O2AfPH6tK7-1" parent="1" style="shape=actor;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="40" x="180" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CLKchlIlr3O2AfPH6tK7-2" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.laptop;network2IconW=1;network2IconH=0.5734;" value="" vertex="1">
+          <mxGeometry height="28.67" width="50" x="150" y="159.16" as="geometry" />
+        </mxCell>
+        <mxCell id="CLKchlIlr3O2AfPH6tK7-4" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_generic;" value="" vertex="1">
+          <mxGeometry height="47" width="26" x="220" y="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -13,6 +13,9 @@
         <mxCell id="CLKchlIlr3O2AfPH6tK7-4" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_generic;" value="" vertex="1">
           <mxGeometry height="47" width="26" x="220" y="150" as="geometry" />
         </mxCell>
+        <mxCell id="CLKchlIlr3O2AfPH6tK7-5" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;" value="" vertex="1">
+          <mxGeometry height="30" width="50" x="175" y="260" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

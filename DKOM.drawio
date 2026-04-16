@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="gB__3KrHpZ1m8fh1elBC">
-    <mxGraphModel dx="694" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1715" math="0" shadow="0">
+    <mxGraphModel dx="990" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1715" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,28 @@
           <mxGeometry height="30" width="50" x="175" y="260" as="geometry" />
         </mxCell>
         <mxCell id="CLKchlIlr3O2AfPH6tK7-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="310" width="370" x="360" y="100" as="geometry" />
+          <mxGeometry height="310" width="370" x="350" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CLKchlIlr3O2AfPH6tK7-12" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Essentials-2657/Essentials_Diamond-579.svg" value="" vertex="1">
+          <mxGeometry height="64" width="64" x="450" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="CLKchlIlr3O2AfPH6tK7-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;strong style=&quot;color: rgb(187, 190, 191); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px; text-align: start;&quot;&gt;Bidirectional Masking Gateway&lt;/strong&gt;" vertex="1">
+          <mxGeometry height="270.84" width="40" x="370" y="69.58" as="geometry" />
+        </mxCell>
+        <mxCell id="CLKchlIlr3O2AfPH6tK7-14" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Boxicons_Regular_Vol_1-2633/bx-brain-800.svg" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="550" y="109.16" as="geometry" />
+        </mxCell>
+        <mxCell id="CLKchlIlr3O2AfPH6tK7-15" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;" value="" vertex="1">
+          <mxGeometry height="38" width="38" x="630" y="71.16" as="geometry" />
+        </mxCell>
+        <mxCell id="CLKchlIlr3O2AfPH6tK7-16" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Boxicons_Regular_Vol_1-2633/bx-brain-800.svg" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="550" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CLKchlIlr3O2AfPH6tK7-17" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Boxicons_Regular_Vol_1-2633/bx-brain-800.svg" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="550" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="CLKchlIlr3O2AfPH6tK7-18" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.misc.dot-dot;" value="" vertex="1">
+          <mxGeometry height="8" width="37" x="557" y="252" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

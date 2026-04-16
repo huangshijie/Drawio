@@ -28,7 +28,7 @@
         <mxCell id="CLKchlIlr3O2AfPH6tK7-12" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Essentials-2657/Essentials_Diamond-579.svg" value="" vertex="1">
           <mxGeometry height="64" width="64" x="450" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="CLKchlIlr3O2AfPH6tK7-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;strong style=&quot;color: rgb(187, 190, 191); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px; text-align: start;&quot;&gt;Bidirectional Masking Gateway&lt;/strong&gt;" vertex="1">
+        <mxCell id="CLKchlIlr3O2AfPH6tK7-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Ubuntu, &amp;quot;Droid Sans&amp;quot;, sans-serif; font-size: 14px; text-align: start;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Bidirectional Masking Gateway&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="270.84" width="40" x="370" y="69.58" as="geometry" />
         </mxCell>
         <mxCell id="CLKchlIlr3O2AfPH6tK7-14" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Boxicons_Regular_Vol_1-2633/bx-brain-800.svg;fontSize=12;strokeWidth=1;" value="" vertex="1">

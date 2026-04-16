@@ -37,7 +37,7 @@
         <mxCell id="CLKchlIlr3O2AfPH6tK7-17" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Boxicons_Regular_Vol_1-2633/bx-brain-800.svg" value="" vertex="1">
           <mxGeometry height="50" width="50" x="550" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="CLKchlIlr3O2AfPH6tK7-18" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.misc.dot-dot;" value="" vertex="1">
+        <mxCell id="CLKchlIlr3O2AfPH6tK7-18" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#000000;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.misc.dot-dot;" value="" vertex="1">
           <mxGeometry height="8" width="37" x="557" y="252" as="geometry" />
         </mxCell>
         <mxCell id="CLKchlIlr3O2AfPH6tK7-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
@@ -70,7 +70,7 @@
         <mxCell id="CLKchlIlr3O2AfPH6tK7-27" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;" value="" vertex="1">
           <mxGeometry height="38" width="38" x="630.5" y="315" as="geometry" />
         </mxCell>
-        <mxCell id="CLKchlIlr3O2AfPH6tK7-28" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.misc.dot-dot;" value="" vertex="1">
+        <mxCell id="CLKchlIlr3O2AfPH6tK7-28" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#000000;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.misc.dot-dot;" value="" vertex="1">
           <mxGeometry height="8" width="37" x="630.5" y="282" as="geometry" />
         </mxCell>
         <mxCell id="CLKchlIlr3O2AfPH6tK7-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Service" vertex="1">

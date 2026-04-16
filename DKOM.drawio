@@ -73,6 +73,30 @@
         <mxCell id="CLKchlIlr3O2AfPH6tK7-28" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.misc.dot-dot;" value="" vertex="1">
           <mxGeometry height="8" width="37" x="630.5" y="282" as="geometry" />
         </mxCell>
+        <mxCell id="CLKchlIlr3O2AfPH6tK7-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Service" vertex="1">
+          <mxGeometry height="30" width="60" x="620" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CLKchlIlr3O2AfPH6tK7-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Agent" vertex="1">
+          <mxGeometry height="30" width="60" x="545" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CLKchlIlr3O2AfPH6tK7-31" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="90" as="sourcePoint" />
+            <mxPoint x="620" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CLKchlIlr3O2AfPH6tK7-33" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="514" y="184" as="sourcePoint" />
+            <mxPoint x="544" y="154" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CLKchlIlr3O2AfPH6tK7-34" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="521" y="260" as="sourcePoint" />
+            <mxPoint x="545" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

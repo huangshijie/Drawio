@@ -196,6 +196,9 @@
         <mxCell id="5C-XJVMjttfDnzqTF98T-3" parent="5C-XJVMjttfDnzqTF98T-1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" value="" vertex="1">
           <mxGeometry height="60.96774193548388" width="48.096774193548384" y="9.03225806451613" as="geometry" />
         </mxCell>
+        <mxCell id="5C-XJVMjttfDnzqTF98T-4" edge="1" parent="1" source="RVCfVaZETv4sPOhKTcYp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.083;entryY=0.59;entryDx=0;entryDy=0;entryPerimeter=0;" target="5C-XJVMjttfDnzqTF98T-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

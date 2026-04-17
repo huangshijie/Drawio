@@ -202,6 +202,9 @@
         <mxCell id="RVCfVaZETv4sPOhKTcYp-1" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Essentials-2657/Essentials_Diamond-579.svg" value="" vertex="1">
           <mxGeometry height="64" width="64" x="430" y="228" as="geometry" />
         </mxCell>
+        <mxCell id="5C-XJVMjttfDnzqTF98T-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Destination" vertex="1">
+          <mxGeometry height="30" width="60" x="890" y="273.93" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

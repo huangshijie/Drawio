@@ -167,16 +167,13 @@
         <mxCell id="saw1wVgHVQQcnkD3qA2u-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="UMS" vertex="1">
           <mxGeometry height="480" width="60" x="550" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="RVCfVaZETv4sPOhKTcYp-1" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Essentials-2657/Essentials_Diamond-579.svg" value="" vertex="1">
-          <mxGeometry height="64" width="64" x="430" y="228" as="geometry" />
-        </mxCell>
         <mxCell id="RVCfVaZETv4sPOhKTcYp-3" edge="1" parent="1" source="RVCfVaZETv4sPOhKTcYp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RVCfVaZETv4sPOhKTcYp-6" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Boxicons_Regular_Vol_1-2633/bx-brain-800.svg" value="LLM" vertex="1">
-          <mxGeometry height="62" width="62" x="350" y="160" as="geometry" />
+          <mxGeometry height="114" width="114" x="420" y="158" as="geometry" />
         </mxCell>
         <mxCell id="RVCfVaZETv4sPOhKTcYp-8" parent="1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" value="" vertex="1">
           <mxGeometry height="48" width="50" x="754" y="100" as="geometry" />
@@ -198,6 +195,9 @@
         </mxCell>
         <mxCell id="5C-XJVMjttfDnzqTF98T-4" edge="1" parent="1" source="RVCfVaZETv4sPOhKTcYp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.083;entryY=0.59;entryDx=0;entryDy=0;entryPerimeter=0;" target="5C-XJVMjttfDnzqTF98T-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RVCfVaZETv4sPOhKTcYp-1" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Essentials-2657/Essentials_Diamond-579.svg" value="" vertex="1">
+          <mxGeometry height="64" width="64" x="430" y="228" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

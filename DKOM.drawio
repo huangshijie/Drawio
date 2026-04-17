@@ -184,6 +184,18 @@
         <mxCell id="RVCfVaZETv4sPOhKTcYp-9" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.document" value="agent" vertex="1">
           <mxGeometry height="50" width="40" x="750" y="400" as="geometry" />
         </mxCell>
+        <mxCell id="RVCfVaZETv4sPOhKTcYp-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="User" vertex="1">
+          <mxGeometry height="30" width="60" x="100" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="5C-XJVMjttfDnzqTF98T-1" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="70" width="50" x="1170" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5C-XJVMjttfDnzqTF98T-2" parent="5C-XJVMjttfDnzqTF98T-1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" value="" vertex="1">
+          <mxGeometry height="60.96774193548388" width="48.096774193548384" as="geometry" />
+        </mxCell>
+        <mxCell id="5C-XJVMjttfDnzqTF98T-3" parent="5C-XJVMjttfDnzqTF98T-1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" value="" vertex="1">
+          <mxGeometry height="60.96774193548388" width="48.096774193548384" y="9.03225806451613" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

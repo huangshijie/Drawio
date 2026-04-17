@@ -175,7 +175,7 @@
             <mxPoint x="540" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RVCfVaZETv4sPOhKTcYp-6" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Boxicons_Regular_Vol_1-2633/bx-brain-800.svg" value="&lt;span style=&quot;font-family: Calibri; font-size: 14.6667px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;/webclient/standalone/i325805_odata_ss_agent&lt;/span&gt;" vertex="1">
+        <mxCell id="RVCfVaZETv4sPOhKTcYp-6" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Boxicons_Regular_Vol_1-2633/bx-brain-800.svg" value="" vertex="1">
           <mxGeometry height="62" width="62" x="350" y="160" as="geometry" />
         </mxCell>
       </root>

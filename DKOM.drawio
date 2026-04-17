@@ -141,7 +141,7 @@
         <mxCell id="DJ9MEf7hcGKWtclQFGXp-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p style=&quot;margin:0in;font-family:Calibri;font-size:11.0pt&quot;&gt;btp, subaccount:&amp;nbsp;scm-agents-kyma&lt;/p&gt;" vertex="1">
           <mxGeometry height="30" width="461.5" x="644.75" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="DJ9MEf7hcGKWtclQFGXp-4" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Calibri; font-size: 14.6667px; text-wrap-mode: wrap;&quot;&gt;i325805_odata_ss_agent&lt;/span&gt;" vertex="1">
+        <mxCell id="DJ9MEf7hcGKWtclQFGXp-4" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Calibri; font-size: 14.6667px; text-wrap-mode: wrap;&quot;&gt;app&lt;/span&gt;" vertex="1">
           <mxGeometry height="38" width="38" x="760" y="110" as="geometry" />
         </mxCell>
         <mxCell id="saw1wVgHVQQcnkD3qA2u-5" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="saw1wVgHVQQcnkD3qA2u-4">
@@ -177,6 +177,12 @@
         </mxCell>
         <mxCell id="RVCfVaZETv4sPOhKTcYp-6" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Boxicons_Regular_Vol_1-2633/bx-brain-800.svg" value="LLM" vertex="1">
           <mxGeometry height="62" width="62" x="350" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RVCfVaZETv4sPOhKTcYp-8" parent="1" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" value="" vertex="1">
+          <mxGeometry height="48" width="50" x="754" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RVCfVaZETv4sPOhKTcYp-9" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.document" value="agent" vertex="1">
+          <mxGeometry height="50" width="40" x="750" y="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -232,6 +232,9 @@
         <mxCell id="DKDJ8MTTovi4qK_N9khA-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="IAS" vertex="1">
           <mxGeometry height="60" width="120" x="700" y="430" as="geometry" />
         </mxCell>
+        <mxCell id="DKDJ8MTTovi4qK_N9khA-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Joule Agent" vertex="1">
+          <mxGeometry height="60" width="120" x="700" y="570" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -217,7 +217,7 @@
           <mxGeometry height="60" width="120" x="500" y="430" as="geometry" />
         </mxCell>
         <mxCell id="DKDJ8MTTovi4qK_N9khA-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
-          <mxGeometry height="60" width="30" x="170" y="50" as="geometry" />
+          <mxGeometry height="60" width="30" x="350" y="430" as="geometry" />
         </mxCell>
         <UserObject label="https://richard-team-agent-dev.authentication.eu12.hana.ondemand.com" link="https://richard-team-agent-dev.authentication.eu12.hana.ondemand.com" id="DKDJ8MTTovi4qK_N9khA-3">
           <mxCell parent="1" style="text;whiteSpace=wrap;" vertex="1">

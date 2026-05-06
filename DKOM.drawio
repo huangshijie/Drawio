@@ -213,8 +213,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DKDJ8MTTovi4qK_N9khA-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="460" y="120" as="geometry" />
+        <mxCell id="DKDJ8MTTovi4qK_N9khA-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Joule Agent" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="430" as="geometry" />
         </mxCell>
         <mxCell id="DKDJ8MTTovi4qK_N9khA-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
           <mxGeometry height="60" width="30" x="170" y="50" as="geometry" />
@@ -229,6 +229,9 @@
             <mxGeometry height="80" width="780" x="340" y="240" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="DKDJ8MTTovi4qK_N9khA-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="IAS" vertex="1">
+          <mxGeometry height="60" width="120" x="700" y="430" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

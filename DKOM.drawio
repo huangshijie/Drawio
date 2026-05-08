@@ -214,10 +214,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DKDJ8MTTovi4qK_N9khA-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Joule Agent" vertex="1">
-          <mxGeometry height="60" width="120" x="500" y="430" as="geometry" />
+          <mxGeometry height="60" width="120" x="760" y="110" as="geometry" />
         </mxCell>
         <mxCell id="DKDJ8MTTovi4qK_N9khA-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
-          <mxGeometry height="60" width="30" x="350" y="430" as="geometry" />
+          <mxGeometry height="60" width="30" x="230" y="100" as="geometry" />
         </mxCell>
         <UserObject label="https://richard-team-agent-dev.authentication.eu12.hana.ondemand.com" link="https://richard-team-agent-dev.authentication.eu12.hana.ondemand.com" id="DKDJ8MTTovi4qK_N9khA-3">
           <mxCell parent="1" style="text;whiteSpace=wrap;" vertex="1">

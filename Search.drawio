@@ -1,9 +1,68 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="app.diagrams.net" pages="2">
   <diagram name="Page-1" id="tvVtDjS0mhQzv1GpcTUq">
-    <mxGraphModel>
+    <mxGraphModel dx="1034" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1715" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qCnSJZJyubruUvTfMS0U-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="OneSearch" vertex="1">
+          <mxGeometry height="60" width="120" x="300" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="qCnSJZJyubruUvTfMS0U-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Network Convergence" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="qCnSJZJyubruUvTfMS0U-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Search Agent" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="qCnSJZJyubruUvTfMS0U-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Trading Partner Serach" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="qCnSJZJyubruUvTfMS0U-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Transactional &amp;amp; Document Search" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AhIZlRiQee1bw6XbSNSI" name="Page-2">
+    <mxGraphModel dx="1464" dy="1030" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1715" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tXnH2IN6T2PdU8PebdMT-11" edge="1" parent="1" source="tXnH2IN6T2PdU8PebdMT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tXnH2IN6T2PdU8PebdMT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tXnH2IN6T2PdU8PebdMT-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Joule" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="tXnH2IN6T2PdU8PebdMT-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="335" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXnH2IN6T2PdU8PebdMT-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;nbsp;Gateway" vertex="1">
+          <mxGeometry height="60" width="350" x="175" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="tXnH2IN6T2PdU8PebdMT-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Search_agent" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="tXnH2IN6T2PdU8PebdMT-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Searhc MCP" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="tXnH2IN6T2PdU8PebdMT-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Search Backend Service" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="tXnH2IN6T2PdU8PebdMT-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tXnH2IN6T2PdU8PebdMT-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350" y="130" as="sourcePoint" />
+            <mxPoint x="440" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tXnH2IN6T2PdU8PebdMT-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Masterdata MCP" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="tXnH2IN6T2PdU8PebdMT-9" edge="1" parent="1" source="tXnH2IN6T2PdU8PebdMT-4" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tXnH2IN6T2PdU8PebdMT-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="470" y="450" as="sourcePoint" />
+            <mxPoint x="520" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

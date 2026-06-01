@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="Page-1" id="Y4vTBDJFTXjha7iMSI6E">
-    <mxGraphModel dx="1034" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1715" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1600" pageHeight="1715" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,7 +125,7 @@
       <root>
         <mxCell id="gLM78biLqQEJX20KEGaN-0" />
         <mxCell id="gLM78biLqQEJX20KEGaN-1" parent="gLM78biLqQEJX20KEGaN-0" />
-        <mxCell id="gLM78biLqQEJX20KEGaN-2" parent="gLM78biLqQEJX20KEGaN-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+        <mxCell id="gLM78biLqQEJX20KEGaN-2" parent="gLM78biLqQEJX20KEGaN-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="CompanyB" vertex="1">
           <mxGeometry height="60" width="30" x="120" y="250" as="geometry" />
         </mxCell>
         <mxCell id="gLM78biLqQEJX20KEGaN-3" parent="gLM78biLqQEJX20KEGaN-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
@@ -251,6 +251,12 @@
         </mxCell>
         <mxCell id="_lDc4zM1nQnOqFgPWyec-3" parent="gLM78biLqQEJX20KEGaN-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="{&lt;div&gt;&quot;suppplier&quot;: &quot;{MASKED_SUPPLIER_ID}&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="650" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="_lDc4zM1nQnOqFgPWyec-4" parent="gLM78biLqQEJX20KEGaN-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="CompanyC" vertex="1">
+          <mxGeometry height="60" width="30" x="130" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_lDc4zM1nQnOqFgPWyec-5" parent="gLM78biLqQEJX20KEGaN-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="CompanyD" vertex="1">
+          <mxGeometry height="60" width="30" x="120" y="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

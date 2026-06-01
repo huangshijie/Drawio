@@ -223,12 +223,12 @@
         <mxCell id="gLM78biLqQEJX20KEGaN-19" edge="1" parent="gLM78biLqQEJX20KEGaN-1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="370" y="400" as="sourcePoint" />
-            <mxPoint x="250" y="360" as="targetPoint" />
+            <mxPoint x="180" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gLM78biLqQEJX20KEGaN-20" connectable="0" parent="gLM78biLqQEJX20KEGaN-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="get MASKED_SUPPLIER_ID= supplierA&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;我刚帮你create了一个向supplierA&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.275" y="-2" as="geometry">
-            <mxPoint y="8" as="offset" />
+            <mxPoint x="10" y="28" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gLM78biLqQEJX20KEGaN-21" edge="1" parent="gLM78biLqQEJX20KEGaN-1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">

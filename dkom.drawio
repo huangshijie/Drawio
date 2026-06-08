@@ -326,7 +326,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Yqo6clTExhCr8Z1nBXxQ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="550" y="440" as="geometry" />
+          <mxGeometry height="60" width="120" x="390" y="350" as="geometry" />
         </mxCell>
         <mxCell id="Yqo6clTExhCr8Z1nBXxQ-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
           <mxGeometry height="60" width="30" x="240" y="171" as="geometry" />

@@ -206,7 +206,7 @@
           <mxGeometry height="30" width="60" x="890" y="273.93" as="geometry" />
         </mxCell>
         <mxCell id="aqnBNaQVGD3uUX2ujUw--1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Joule" vertex="1">
-          <mxGeometry height="60" width="120" x="230" y="1090" as="geometry" />
+          <mxGeometry height="60" width="120" x="480" y="960" as="geometry" />
         </mxCell>
         <mxCell id="aqnBNaQVGD3uUX2ujUw--2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MCP destination" vertex="1">
           <mxGeometry height="60" width="120" x="480" y="1090" as="geometry" />
@@ -218,7 +218,10 @@
           <mxGeometry height="60" width="120" x="719" y="1220" as="geometry" />
         </mxCell>
         <mxCell id="aqnBNaQVGD3uUX2ujUw--5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="API Builder" vertex="1">
-          <mxGeometry height="60" width="120" x="900" y="1220" as="geometry" />
+          <mxGeometry height="60" width="120" x="900" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="aqnBNaQVGD3uUX2ujUw--6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Search Service" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="1220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

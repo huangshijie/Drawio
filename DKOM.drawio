@@ -214,6 +214,9 @@
         <mxCell id="aqnBNaQVGD3uUX2ujUw--3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MCP Builder" vertex="1">
           <mxGeometry height="60" width="120" x="720" y="1090" as="geometry" />
         </mxCell>
+        <mxCell id="aqnBNaQVGD3uUX2ujUw--4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="API Builder" vertex="1">
+          <mxGeometry height="60" width="120" x="719" y="1200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

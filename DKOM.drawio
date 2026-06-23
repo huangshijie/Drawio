@@ -220,7 +220,7 @@
         <mxCell id="aqnBNaQVGD3uUX2ujUw--5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="API Builder" vertex="1">
           <mxGeometry height="60" width="120" x="900" y="1260" as="geometry" />
         </mxCell>
-        <mxCell id="aqnBNaQVGD3uUX2ujUw--6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Search Service" vertex="1">
+        <mxCell id="aqnBNaQVGD3uUX2ujUw--6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Search Agent" vertex="1">
           <mxGeometry height="60" width="120" x="480" y="1220" as="geometry" />
         </mxCell>
       </root>

@@ -10,6 +10,9 @@
         <mxCell id="DDC-FKhIysPGOjN-8KM4-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Team Agent" vertex="1">
           <mxGeometry height="60" width="120" x="250" y="270" as="geometry" />
         </mxCell>
+        <mxCell id="DDC-FKhIysPGOjN-8KM4-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Github pages" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="390" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

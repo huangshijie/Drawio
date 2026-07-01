@@ -13,11 +13,17 @@
         <mxCell id="DDC-FKhIysPGOjN-8KM4-4" edge="1" parent="1" source="DDC-FKhIysPGOjN-8KM4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDC-FKhIysPGOjN-8KM4-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DDC-FKhIysPGOjN-8KM4-7" edge="1" parent="1" source="DDC-FKhIysPGOjN-8KM4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DDC-FKhIysPGOjN-8KM4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DDC-FKhIysPGOjN-8KM4-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Team Agent" vertex="1">
           <mxGeometry height="60" width="120" x="250" y="270" as="geometry" />
         </mxCell>
         <mxCell id="DDC-FKhIysPGOjN-8KM4-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Github pages" vertex="1">
           <mxGeometry height="60" width="120" x="250" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="DDC-FKhIysPGOjN-8KM4-6" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Boxicons_Regular_Vol_1-2633/bx-brain-800.svg" value="" vertex="1">
+          <mxGeometry height="70" width="70" x="500" y="265" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

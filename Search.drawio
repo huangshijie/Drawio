@@ -158,6 +158,15 @@
         <mxCell id="A4IdTlycy5Yo0ywLh4y2-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rail ???" vertex="1">
           <mxGeometry height="30" width="120" x="-70" y="4191.75" as="geometry" />
         </mxCell>
+        <mxCell id="A4IdTlycy5Yo0ywLh4y2-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;404&quot; style=&quot;border-collapse: collapse; width: 303pt;&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;404&quot; style=&quot;width: 303pt;&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr height=&quot;25&quot; style=&quot;height: 19pt;&quot;&gt;&lt;td height=&quot;25&quot; class=&quot;xl63&quot; width=&quot;404&quot; style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: rgb(23, 43, 77); font-size: 14pt; font-family: &amp;quot;Helvetica Neue&amp;quot;, sans-serif; vertical-align: bottom; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; height: 19pt; width: 303pt;&quot;&gt;API&lt;br&gt;EDI&lt;br&gt;Tracking Platform&lt;br&gt;WebCarrier&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" vertex="1">
+          <mxGeometry height="100" width="220" x="-70" y="4260" as="geometry" />
+        </mxCell>
+        <mxCell id="A4IdTlycy5Yo0ywLh4y2-26" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=47;endSize=15;width=23;fillColor=#d5e8d4;strokeColor=#82b366;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="60.44" y="4286.75" as="sourcePoint" />
+            <mxPoint x="336.44" y="4126.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

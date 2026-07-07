@@ -197,8 +197,8 @@
             <mxPoint x="510" y="4220.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A4IdTlycy5Yo0ywLh4y2-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Remove" vertex="1">
-          <mxGeometry height="60" width="120" x="1200" y="2150" as="geometry" />
+        <mxCell id="A4IdTlycy5Yo0ywLh4y2-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Remove green leaf, active supplier, active carrier" vertex="1">
+          <mxGeometry height="60" width="160" x="1200" y="2150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

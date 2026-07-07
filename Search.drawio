@@ -189,7 +189,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A4IdTlycy5Yo0ywLh4y2-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="project44&lt;div&gt;Shippeo&lt;/div&gt;&lt;div&gt;FourKites&lt;/div&gt;&lt;div&gt;Descartes&lt;/div&gt;&lt;div&gt;Uber Freight&lt;/div&gt;&lt;div&gt;Other&lt;/div&gt;" vertex="1">
-          <mxGeometry height="130" width="120" x="690" y="4191.75" as="geometry" />
+          <mxGeometry height="130" width="120" x="630" y="4180" as="geometry" />
+        </mxCell>
+        <mxCell id="A4IdTlycy5Yo0ywLh4y2-36" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=47;endSize=15;width=23;fillColor=#fff2cc;strokeColor=#d6b656;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="660" y="4221.25" as="sourcePoint" />
+            <mxPoint x="510" y="4220.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A4IdTlycy5Yo0ywLh4y2-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Remove" vertex="1">
+          <mxGeometry height="60" width="120" x="1200" y="2150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
